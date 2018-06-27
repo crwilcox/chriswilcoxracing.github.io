@@ -8,6 +8,15 @@ layout: page
 
 ![](img/76825961-IMG_5971-cropped2.jpeg)
 
+# Race Reports
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 # Thank you to my sponsors
 
 [![TrackTime Track Days and Rider Training](img/sponsors/tracktime.png)](http://tracktime.bike)
