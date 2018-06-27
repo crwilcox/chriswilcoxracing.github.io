@@ -4,202 +4,76 @@ title: Results
 permalink: /results/
 ---
 
+<h2 class="section-heading">2018</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Date</th>
+            <th>Event</th>
+            <th>Location</th>
+            <th>Class</th>
+            <th>Result</th>
+            <th>Race Report</th>
+            <th>Video</th>
+        </tr>
+    </thead>
+    <tbody>
+    {% for result in site.data.2018_results %}
+        <tr>
+            <td>{{result.date}}</td>
+            <td>{{result.event}}</td>
+            <td>{{result.location}}</td>
+            <td>{{result.class}}</td>
+            <td>{{result.result}}</td>
+            {% if result.report %}
+            <td><a href="{{result.report}}">Report</a></td>
+            {% else %}
+            <td>N/A</td>
+            {% endif %}
+            {% if result.video %}
+            <td><a href="{{result.video}}">Video</a></td>
+            {% else %}
+            <td>N/A</td>
+            {% endif %}
+        </tr>
+    {% endfor %}
+    </tbody>
+</table>
+
+
 <h2 class="section-heading">2017</h2>
 <table class="table">
     <thead>
         <tr>
-        <th>Date</th>
-        <th>Series</th>
-        <th>Round</th>
-        <th>Location</th>
-        <th>Class</th>
-        <th>Result</th>
-        <th>Race Report</th>
-        <th>Video</th>
+            <th>Date</th>
+            <th>Event</th>
+            <th>Location</th>
+            <th>Class</th>
+            <th>Result</th>
+            <th>Race Report</th>
+            <th>Video</th>
         </tr>
     </thead>
     <tbody>
+    {% for result in site.data.2017_results %}
         <tr>
-            <td>2017/07/22</td>
-            <td>
-                <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
-            </td>
-            <td>Round 5</td>
-            <td>The Ridge Motorsports Park</td>
-            <td>750SS</td>
-            <td>9th</td>
-            <td><a href="https://www.facebook.com/notes/chris-wilcox/2017-wmrra-round-5-race-report/10155403262295729/">Report</a></td>
-            <td><a href="https://www.youtube.com/watch?v=y1DKQ4wypIg&index=19&list=PLaDtTBcu5FKbZ9uUdRaswvmtSi7uMQAWZ">Video</a></td>
-        </tr>
-        <tr>
-            <td>2017/07/22</td>
-            <td>
-                <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
-            </td>
-            <td>Round 5</td>
-            <td>The Ridge Motorsports Park</td>
-            <td>600SS</td>
-            <td>13th</td>
-            <td><a href="https://www.facebook.com/notes/chris-wilcox/2017-wmrra-round-5-race-report/10155403262295729/">Report</a></td>
-            <td><a href="https://www.youtube.com/watch?v=eC-jMrUDtiE&index=18&list=PLaDtTBcu5FKbZ9uUdRaswvmtSi7uMQAWZ">Video</a></td>
-        </tr>
-        <tr>
-            <td>2017/07/22</td>
-            <td>
-                <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
-            </td>
-            <td>Round 5</td>
-            <td>The Ridge Motorsports Park</td>
-            <td>Clubman Qualifier</td>
-            <td>10th</td>
-            <td><a href="https://www.facebook.com/notes/chris-wilcox/2017-wmrra-round-5-race-report/10155403262295729/">Report</a></td>
-            <td><a href="https://www.youtube.com/watch?v=f1IHGcEdpg8&index=17&list=PLaDtTBcu5FKbZ9uUdRaswvmtSi7uMQAWZ">Video</a></td>
-        </tr>
-        <tr>
-            <td>2017/06/24</td>
-            <td>
-                <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
-            </td>
-            <td>Round 4</td>
-            <td>The Ridge Motorsports Park</td>
-            <td>Clubman Qualifier</td>
-            <td>12th</td>
-            <td><a href="https://www.facebook.com/notes/chris-wilcox/2017-wmrra-round-4-race-report/10155307164385729/">Report</a></td>
-            <td><a href="https://www.youtube.com/watch?v=_jApjHnZ--c&index=16&list=PLaDtTBcu5FKbZ9uUdRaswvmtSi7uMQAWZ">Video</a></td>
-        </tr>
-        <tr>
-            <td>2017/06/24</td>
-            <td>
-                <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
-            </td>
-            <td>Round 4</td>
-            <td>The Ridge Motorsports Park</td>
-            <td>600SS</td>
-            <td>DNF (Mechanical)</td>
-            <td><a href="https://www.facebook.com/notes/chris-wilcox/2017-wmrra-round-4-race-report/10155307164385729/">Report</a></td>
+            <td>{{result.date}}</td>
+            <td>{{result.event}}</td>
+            <td>{{result.location}}</td>
+            <td>{{result.class}}</td>
+            <td>{{result.result}}</td>
+            {% if result.report %}
+            <td><a href="{{result.report}}">Report</a></td>
+            {% else %}
             <td>N/A</td>
+            {% endif %}
+            {% if result.video %}
+            <td><a href="{{result.video}}">Video</a></td>
+            {% else %}
+            <td>N/A</td>
+            {% endif %}
         </tr>
-        <tr>
-            <td>2017/05/27</td>
-            <td>
-                <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
-            </td>
-            <td>Round 3</td>
-            <td>The Ridge Motorsports Park</td>
-            <td>Clubman Qualifier</td>
-            <td>12th</td>
-            <td><a href="https://www.facebook.com/notes/chris-wilcox/2017-wmrra-round-3-race-report/10155195811300729">Report</a></td>
-            <td><a href="https://www.youtube.com/watch?v=lGGGGojYUfM&t=2s&list=PLaDtTBcu5FKbZ9uUdRaswvmtSi7uMQAWZ&index=15">Video</a></td>
-        </tr>
-        <tr>
-            <td>2017/05/27</td>
-            <td>
-                <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
-            </td>
-            <td>Round 3</td>
-            <td>The Ridge Motorsports Park</td>
-            <td>600SS</td>
-            <td>16th</td>
-            <td><a href="https://www.facebook.com/notes/chris-wilcox/2017-wmrra-round-3-race-report/10155195811300729">Report</a></td>
-            <td><a href="https://www.youtube.com/watch?v=wzfbXXnp28I&list=PLaDtTBcu5FKbZ9uUdRaswvmtSi7uMQAWZ&index=12">Video</a></td>
-        </tr>
-        <tr>
-            <td>2017/05/14</td>
-            <td>
-                <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
-            </td>
-            <td>Round 2</td>
-            <td>Pacific Raceways</td>
-            <td>Clubman Qualifier</td>
-            <td>?</td>
-            <td><a href="https://www.facebook.com/notes/chris-wilcox/2017-wmrra-round-2-race-report/10155152588000729/">Report</a></td>
-            <td><a href="https://www.youtube.com/watch?v=fS2XDnn1rms&list=PLaDtTBcu5FKbZ9uUdRaswvmtSi7uMQAWZ&index=9">Video</a></td>
-        </tr>
-        <tr>
-            <td>2017/05/14</td>
-            <td>
-                <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
-            </td>
-            <td>Round 2</td>
-            <td>Pacific Raceways</td>
-            <td>600 Classic SBK</td>
-            <td>4th</td>
-            <td><a href="https://www.facebook.com/notes/chris-wilcox/2017-wmrra-round-2-race-report/10155152588000729/">Report</a></td>
-            <td><a href="https://www.youtube.com/watch?v=3Ixoq6giPLc&list=PLaDtTBcu5FKbZ9uUdRaswvmtSi7uMQAWZ&index=8">Video</a></td>
-        </tr>
-        <tr>
-            <td>2017/05/13</td>
-            <td>
-                <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
-            </td>
-            <td>Round 2</td>
-            <td>Pacific Raceways</td>
-            <td>600SS</td>
-            <td>11th</td>
-            <td><a href="https://www.facebook.com/notes/chris-wilcox/2017-wmrra-round-2-race-report/10155152588000729/">Report</a></td>
-            <td><a href="https://www.youtube.com/watch?v=Yz8wb7aiS7Y&list=PLaDtTBcu5FKbZ9uUdRaswvmtSi7uMQAWZ&index=7&t=18s">Video</a></td>
-        </tr>
-        <tr>
-            <td>2017/05/13</td>
-            <td>
-                <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
-            </td>
-            <td>Round 2</td>
-            <td>Pacific Raceways</td>
-            <td>Clubman Qualifer</td>
-            <td>7th</td>
-            <td><a href="https://www.facebook.com/notes/chris-wilcox/2017-wmrra-round-2-race-report/10155152588000729/">Report</a></td>
-            <td><a href="https://www.youtube.com/watch?v=brV_S7x3-Ak&list=PLaDtTBcu5FKbZ9uUdRaswvmtSi7uMQAWZ&index=6&t=1s">Video</a></td>
-        </tr>
-        <tr>
-            <td>2017/04/23</td>
-            <td>
-                <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
-            </td>
-            <td>Round 1</td>
-            <td>Pacific Raceways</td>
-            <td>Clubman Qualifer</td>
-            <td>4th</td>
-            <td><a href="https://www.facebook.com/notes/chris-wilcox/2017-wmrra-round-1-race-report/10155090220970729/">Report</a></td>
-            <td><a href="https://www.youtube.com/watch?v=oRp06DMlK7g&list=PLaDtTBcu5FKbZ9uUdRaswvmtSi7uMQAWZ&index=5">Video</a></td>
-        </tr>
-        <tr>
-            <td>2017/04/23</td>
-            <td>
-                <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
-            </td>
-            <td>Round 1</td>
-            <td>Pacific Raceways</td>
-            <td>600 Classic Superbike</td>
-            <td>DNS</td>
-            <td><a href="https://www.facebook.com/notes/chris-wilcox/2017-wmrra-round-1-race-report/10155090220970729/">Report</a></td>
-            <td><a href="https://www.youtube.com/watch?v=oK6bgFCyJYY&index=4&list=PLaDtTBcu5FKbZ9uUdRaswvmtSi7uMQAWZ">Video</a></td>
-
-        </tr>
-        <tr>
-            <td>2017/04/22</td>
-            <td>
-                <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
-            </td>
-            <td>Round 1</td>
-            <td>Pacific Raceways</td>
-            <td>600 Supersport</td>
-            <td>DNF</td>
-            <td><a href="https://www.facebook.com/notes/chris-wilcox/2017-wmrra-round-1-race-report/10155090220970729/">Report</a></td>
-            <td><a href="https://www.youtube.com/watch?v=ZIDikOMTuR0&list=PLaDtTBcu5FKbZ9uUdRaswvmtSi7uMQAWZ&index=2">Video</a></td>
-        </tr>
-        <tr>
-            <td>2017/04/22</td>
-            <td>
-                <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
-            </td>
-            <td>Round 1</td>
-            <td>Pacific Raceways</td>
-            <td>Clubman Qualifer</td>
-            <td>1st</td>
-            <td><a href="https://www.facebook.com/notes/chris-wilcox/2017-wmrra-round-1-race-report/10155090220970729/">Report</a></td>
-            <td><a href="https://www.youtube.com/watch?v=MP6XZMdaHGM&index=1&list=PLaDtTBcu5FKbZ9uUdRaswvmtSi7uMQAWZ">Video</a></td>
-        </tr>
+    {% endfor %}
     </tbody>
 </table>
 
@@ -381,7 +255,7 @@ permalink: /results/
         <td>The Ridge Motorsports Park</td>
         <td>Clubman Qualifier</td>
         <td>7th</td>
-        <td><a href=">Report</a></td>
+        <td><a href="https://www.facebook.com/notes/chris-wilcox/2016-wmrra-round-2-race-report/10154148470545729">Report</a></td>
         </tr>
         <tr>
         <td>2016/05/28</td>

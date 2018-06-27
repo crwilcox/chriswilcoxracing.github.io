@@ -14,15 +14,15 @@ Ridge Motorsports Park, Shelton, WA
 May 5-6, 2018
 
 # Results:
-600 Classic SBK - 8th - [Video](https://www.youtube.com/watch?v=aI-reuiZbls)
-
-Open Classic SBK - 6th - [Video](https://www.youtube.com/watch?v=DZnUFWpcWkg)
-
 600 SS - 17th - [Video](https://www.youtube.com/watch?v=X9iX4SUYlPw)
 
 600 SBK - 12th - [Video](https://www.youtube.com/watch?v=gcgPTSk9jtA)
 
 Clubman Saturday - 14th - [Video](https://www.youtube.com/watch?v=78OjybDdnm0)
+
+600 Classic SBK - 8th - [Video](https://www.youtube.com/watch?v=aI-reuiZbls)
+
+Open Classic SBK - 6th - [Video](https://www.youtube.com/watch?v=DZnUFWpcWkg)
 
 Clubman Sunday - 3 turns. red flag. - [Video](https://www.youtube.com/watch?v=qLwGjuiT6z4)
 
