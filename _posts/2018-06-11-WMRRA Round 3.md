@@ -5,6 +5,8 @@ date:   2018-06-11 09:00 -0700
 categories: reports
 ---
 
+![](/img/race-report-photos/2018/2018-wmrra-r3-header.jpg)
+
 # Track:
 The Ridge Motorsports Park, Shelton, WA
 
