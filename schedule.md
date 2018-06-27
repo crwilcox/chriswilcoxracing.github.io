@@ -25,28 +25,20 @@ permalink: /schedule/
                 </thead>
                 <tbody>	
                     <tr>
-                    <td>August 26-27, 2017</td>
-                    <td>
-                        <a href="http://omrra.com"><img src="../img/OMRRA-logo.jpg" height="25"/></a>
-                    </td>
-                    <td>Round 5</td>
-                    <td>Portland International Raceway</td>
+                        <td>August 18-19, 2018</td>
+                        <td>
+                            <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
+                        </td>
+                        <td>Round 6</td>
+                        <td>The Ridge Motorsports Park</td>
                     </tr>
                     <tr>
-                    <td>September 2-4, 2017</td>
-                    <td>
-                        <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
-                    </td>
-                    <td>Round 6</td>
-                    <td>Pacific Raceways</td>
-                    </tr>
-                    <tr>
-                    <td>September 16-17, 2017</td>
-                    <td>
-                        <a href="http://omrra.com"><img src="../img/OMRRA-logo.jpg" height="25"/></a>
-                    </td>
-                    <td>Round 6</td>
-                    <td>Portland International Raceway</td>
+                        <td>August 25-26, 2018</td>
+                        <td>
+                            <a href="http://omrra.com"><img src="../img/OMRRA-logo.jpg" height="25"/></a>
+                        </td>
+                        <td>Round 6</td>
+                        <td>Portland International Raceway</td>
                     </tr>
                 </tbody>
             </table>
