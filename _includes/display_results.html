@@ -1,0 +1,23 @@
+{% assign results = site.data.2018_results | sort: 'date' | where:'event', event_name %}
+<table class="table">
+    <thead>
+        <tr>
+            <th>Class</th>
+            <th>Result</th>
+            <th>Video</th>
+        </tr>
+    </thead>
+    <tbody>
+    {% for result in results %}
+        <tr>
+            <td>{{result.class}}</td>
+            <td>{{result.result}}</td>
+            {% if result.video %}
+            <td><a href="{{result.video}}">Video</a></td>
+            {% else %}
+            <td>N/A</td>
+            {% endif %}
+        </tr>
+    {% endfor %}
+    </tbody>
+</table>
