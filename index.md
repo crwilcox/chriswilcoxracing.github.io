@@ -8,14 +8,16 @@ layout: page
 
 ![](img/76825961-IMG_5971-cropped2.jpeg)
 
-# Race Reports
+# Recent Race Reports
 <ul>
-  {% for post in site.posts %}
+  {% for post in site.posts limit:3 %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
+
+[View more race reports](/race-reports)
 
 # Thank you to my sponsors
 
