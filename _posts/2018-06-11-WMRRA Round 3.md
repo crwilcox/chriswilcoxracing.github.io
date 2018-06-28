@@ -18,8 +18,9 @@ June 9-10, 2018
 {% include display_results.html %}
 
 # Report:
-I started the weekend intending to race in 6 races, but by the end of Saturday I realized that wasn't going to happen. I was still recovering from an illness the from the week prior and I was clearly worn out. For me personally this turned into a 'survive' type weekend.
+
+I started the weekend intending to race in 6 races, but by the end of Saturday I realized that wasn’t going to happen. I was still recovering from an illness I had the week prior and I was clearly worn out. For me this turned into a ‘survive’ type weekend.
 
 I was happy I was able to hold my own once in a race. It is always interesting how once the light goes out you have the energy needed to complete the task. I wish my results could have been better, but I think I did about as well as I could.
 
-I want to thank my wife for helping me so much this weekend. I am sure it was even more work than usual and she was there helping me every step of the way.
+I want to thank my wife Anna Piechowski for helping me so much this weekend. I am sure it was even more work than usual and she was there helping me every step of the way.

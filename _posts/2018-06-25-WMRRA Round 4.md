@@ -5,6 +5,8 @@ date:   2018-06-25 09:00 -0700
 categories: reports
 ---
 
+![](/img/race-report-photos/2018/2018-wmrra-r4-header.jpg)
+
 # Track:
 Pacific Raceways, Kent, WA
 
@@ -21,3 +23,5 @@ Round 4 was the first round this season at Pacific Raceways. I always enjoy this
 I raced in 4 races, 2 each day, and was able to improve across the weekend. I am still a bit off of my best times at the track of 1:33.910 but I managed a 01:35.968. Unfortunately this is the only Pacific Raceways event I will be attending this year so I won't have a chance to improve on my times.
 
 The highlight of the weekend was definitely Clubman Qualifier on Sunday. Jason Pierce and I had some close riding for most of the race. CJ Hobbs made an appearance but with the power of a new R1 he was a rocket ship on the straight. Here is to hoping to more close racing with the Shire.
+
+![](/img/race-report-photos/2018/2018-wmrra-r4-body.jpg)
