@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2019 WMRRA Round 1"
-date:   2019-04-23 09:00 -0700
+date:   2019-04-22 09:00 -0700
 categories: reports
 ---
 
