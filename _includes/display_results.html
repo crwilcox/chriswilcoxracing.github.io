@@ -1,4 +1,4 @@
-{% assign results = site.data.results[year] | sort: 'date' | where:'event', event_name %}
+{% assign results = site.data.results[year] | where:'event', event_name | reverse %}
 <table class="table">
     <thead>
         <tr>
