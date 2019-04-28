@@ -28,6 +28,6 @@ On Sunday the day began with 600 Classic Superbike. I got a decent launch off th
 
 The final race of the weekend would be the 2nd Clubman Qualifier race. People had brought their A game. I ran a good pace, but the few guys at the front were on fire. CJ Hobbs managed to break out on his new R1, and Ryan Cresap behind him was very close to being too quick.
 
-This was a great weekend with some great individuals. It is unfortunately my last round of the season but it was a great way to end the season. Looking forward to more close racing in 2019.ss
+This was a great weekend with some great individuals. It is unfortunately my last round of the season but it was a great way to end the season. Looking forward to more close racing in 2019.
 
 ![](/img/race-report-photos/2018/2018-wmrra-r6-body.jpg)
