@@ -4,6 +4,44 @@ title: Results
 permalink: /results/
 ---
 
+
+<h2 class="section-heading">2019</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Date</th>
+            <th>Event</th>
+            <th>Location</th>
+            <th>Class</th>
+            <th>Result</th>
+            <th>Race Report</th>
+            <th>Video</th>
+        </tr>
+    </thead>
+    <tbody>
+    {% for result in site.data.2019_results %}
+        <tr>
+            <td>{{result.date}}</td>
+            <td>{{result.event}}</td>
+            <td>{{result.location}}</td>
+            <td>{{result.class}}</td>
+            <td>{{result.result}}</td>
+            {% if result.report %}
+            <td><a href="{{result.report}}">Report</a></td>
+            {% else %}
+            <td>N/A</td>
+            {% endif %}
+            {% if result.video %}
+            <td><a href="{{result.video}}">Video</a></td>
+            {% else %}
+            <td>N/A</td>
+            {% endif %}
+        </tr>
+    {% endfor %}
+    </tbody>
+</table>
+
+
 <h2 class="section-heading">2018</h2>
 <table class="table">
     <thead>

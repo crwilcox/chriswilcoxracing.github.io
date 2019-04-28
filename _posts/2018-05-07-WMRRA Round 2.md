@@ -14,6 +14,7 @@ Ridge Motorsports Park, Shelton, WA
 May 5-6, 2018
 
 # Results:
+{% assign year = "2018" %}
 {% assign event_name = "WMRRA Round 2" %}
 {% include display_results.html %}
 

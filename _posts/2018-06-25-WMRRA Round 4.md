@@ -14,6 +14,7 @@ Pacific Raceways, Kent, WA
 June 23-24, 2018
 
 # Results:
+{% assign year = "2018" %}
 {% assign event_name = "WMRRA Round 4" %}
 {% include display_results.html %}
 

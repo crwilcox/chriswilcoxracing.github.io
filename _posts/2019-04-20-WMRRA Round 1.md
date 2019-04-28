@@ -14,6 +14,7 @@ Pacific Raceways, Kent, WA
 April 21-22, 2019
 
 # Results:
+{% assign year = "2019" %}
 {% assign event_name = "WMRRA Round 1" %}
 {% include display_results.html %}
 
