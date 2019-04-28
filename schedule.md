@@ -25,20 +25,36 @@ permalink: /schedule/
                 </thead>
                 <tbody>	
                     <tr>
-                        <td>August 18-19, 2018</td>
+                        <td>June 7-9</td>
+                        <td>
+                            <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
+                        </td>
+                        <td>Round 3</td>
+                        <td>The Ridge Motorsports Park</td>
+                    </tr>
+                    <tr>
+                        <td>August 16-18</td>
+                        <td>
+                            <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
+                        </td>
+                        <td>Round 4</td>
+                        <td>The Ridge Motorsports Park</td>
+                    </tr>
+                    <tr>
+                        <td>September 6-8</td>
+                        <td>
+                            <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
+                        </td>
+                        <td>Round 4</td>
+                        <td>Pacific Raceways</td>
+                    </tr>
+                    <tr>
+                        <td>September 20-22</td>
                         <td>
                             <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
                         </td>
                         <td>Round 6</td>
-                        <td>The Ridge Motorsports Park</td>
-                    </tr>
-                    <tr>
-                        <td>August 25-26, 2018</td>
-                        <td>
-                            <a href="http://omrra.com"><img src="../img/OMRRA-logo.jpg" height="25"/></a>
-                        </td>
-                        <td>Round 6</td>
-                        <td>Portland International Raceway</td>
+                        <td>PIR</td>
                     </tr>
                 </tbody>
             </table>
