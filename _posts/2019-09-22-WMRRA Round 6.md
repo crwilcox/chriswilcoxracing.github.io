@@ -5,7 +5,7 @@ date:   2019-09-22 09:00 -0700
 categories: reports
 ---
 
-![](/img/race-report-photos/2019/2019-wmrra-r4-header.jpg)
+![](/img/race-report-photos/2019/2019-wmrra-r6-header.jpg)
 
 # Track:
 Portland International Raceway, Portland, OR
@@ -21,4 +21,10 @@ September 21, 2019
 # Report:
 
 
-![](/img/race-report-photos/2019/2019-wmrra-r4-body.jpg)
+![](/img/race-report-photos/2019/2019-wmrra-r6-body-1.jpg)
+
+
+![](/img/race-report-photos/2019/2019-wmrra-r6-body-2.jpg)
+
+
+![](/img/race-report-photos/2019/2019-wmrra-r6-footer.jpg)
