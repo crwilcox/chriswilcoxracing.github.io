@@ -8,7 +8,7 @@ permalink: /schedule/
 <div class="container">
     <div class="row">
         <div class="col-lg-12 text-center">
-            <h2 class="section-heading">Schedule</h2>
+            <h2 class="section-heading">2020 Schedule</h2>
             <h3 class="section-subheading text-muted"></h3>
         </div>
     </div>
@@ -25,36 +25,36 @@ permalink: /schedule/
                 </thead>
                 <tbody>	
                     <tr>
-                        <td>June 7-9</td>
+                        <td>July 11-12</td>
                         <td>
                             <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
                         </td>
                         <td>Round 3</td>
-                        <td>The Ridge Motorsports Park</td>
-                    </tr>
-                    <tr>
-                        <td>August 16-18</td>
-                        <td>
-                            <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
-                        </td>
-                        <td>Round 4</td>
-                        <td>The Ridge Motorsports Park</td>
-                    </tr>
-                    <tr>
-                        <td>September 6-8</td>
-                        <td>
-                            <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
-                        </td>
-                        <td>Round 4</td>
                         <td>Pacific Raceways</td>
                     </tr>
                     <tr>
-                        <td>September 20-22</td>
+                        <td>August 15-16</td>
+                        <td>
+                            <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
+                        </td>
+                        <td>Round 4</td>
+                        <td>The Ridge Motorsports Park</td>
+                    </tr>
+                    <tr>
+                        <td>September 5-7</td>
+                        <td>
+                            <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
+                        </td>
+                        <td>Round 5</td>
+                        <td>Pacific Raceways</td>
+                    </tr>
+                    <tr>
+                        <td>September 26-27</td>
                         <td>
                             <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
                         </td>
                         <td>Round 6</td>
-                        <td>PIR</td>
+                        <td>Portland International Raceway</td>
                     </tr>
                 </tbody>
             </table>
