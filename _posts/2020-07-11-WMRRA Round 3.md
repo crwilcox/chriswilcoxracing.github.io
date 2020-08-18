@@ -33,6 +33,8 @@ The first race of the weekend was 600 Supersport. While I had no expectations of
 #### 600 Sportsman
 The next race was 600 Sportsman. This was the race of the weekend where I felt I could get near the podium. Due to points from last year, I started from the front row. I got a great start, but overslowed into turn 2 a bit, which allowed 2 riders to get by me. I reeled them back in, however, and in no time we were dicing with the Open Sportsman class that was wave started in front of us. I could tell my comfort in passing other bikes had improved as we worked our way through some traffic. I had a pretty consistent pace in the 1:34s, but I never managed to get around the other 600 riders.  I came back to the pit to see my wife super-happy and thought "well, I did manage a 3rd, a podium is a podium." Turns out the other two riders exceeded the Disqualification time (Sportsman is a bracket race) so I took 1st!
 
+![](/img/race-report-photos/2020/2020-wmrra-r3-bus-stop.jpg)
+
 #### Back to back racing with 600 SBK
 I only had a moment to catch my breath and drink some water following Sportsman, because I immediately had to get right back on track for 600 Superbike. Again, I managed a pretty good start, but by the middle of the race my laptimes started to decline. It seems I might have gotten tired. If I do a back-to-back race again, I might need to find a better way to fuel. That said, this race had some close battling with [Matt Wichgers](https://www.facebook.com/profile.php?id=100014820004694) and [Rich Kim](https://www.facebook.com/rwk63). Even if I couldn't keep my pace up, I had a great time.
 
