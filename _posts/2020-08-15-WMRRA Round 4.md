@@ -35,7 +35,4 @@ My last race of the day was Open Classic SBK. Last year I ran 600 Classic SBK, b
 
 All in all, it was a pretty good weekend for me. I would have preferred cooler weather as the asphalt did get a bit slippery as it heated up, but it was tolerable. Though I think I set a new record for the amount of water consumed at a round. I am disappointed that we won't have another round at The Ridge this year, since I feel like I had just enough time to start to really figure out racing on the new configuration. Thanks to everyone who supports me in this crazy sport: my wife keeping things on track in the paddock, Track Time for providing me a place to hone my skills, and Ken Hill for their advice and coaching which has set me on the path to being a faster, safer, rider. I can't wait for 2021 and more fun with the whole gang. But for now, I am preparing to ride at Pacific in just a few weeks!
 
-<!-- TODO: ADD PHOTOS FROM DANE
-![](/img/race-report-photos/2020/2020-wmrra-r3-bike-chris.jpg)
-
--->
+![](/img/race-report-photos/2020/2020-wmrra-r4-footer.jpg)
