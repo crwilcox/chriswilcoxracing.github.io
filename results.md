@@ -4,7 +4,7 @@ title: Results
 permalink: /results/
 ---
 
-{% assign results = site.data.results | sort: a=>a[0] %}
+{% assign results = site.data.results | sort %}
 {% for result_data in results reversed %}
 <h2 class="section-heading">{{result_data[0]}}</h2>
 <table class="table">
