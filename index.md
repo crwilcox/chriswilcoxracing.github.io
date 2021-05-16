@@ -6,7 +6,8 @@
 layout: page
 ---
 
-![](img/76825961-IMG_5971-cropped2.jpeg)
+<!-- ![](img/76825961-IMG_5971-cropped2.jpeg) -->
+![](/img/race-report-photos/2021/2021-wmrra-r1-chicane.png)
 
 # Recent Race Reports
 <ul>
