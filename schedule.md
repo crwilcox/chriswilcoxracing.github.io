@@ -8,7 +8,7 @@ permalink: /schedule/
 <div class="container">
     <div class="row">
         <div class="col-lg-12 text-center">
-            <h2 class="section-heading">2020 Schedule</h2>
+            <h2 class="section-heading">2021 Schedule</h2>
             <h3 class="section-subheading text-muted"></h3>
         </div>
     </div>
@@ -25,36 +25,64 @@ permalink: /schedule/
                 </thead>
                 <tbody>	
                     <tr>
-                        <td>July 11-12</td>
+                        <td>May 8-9</td>
+                        <td>
+                            <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
+                            <a href="http://omrra.com"><img src="../img/OMRRA-logo.jpg" height="25"/></a>
+                        </td>
+                        <td>Round 1</td>
+                        <td>The Ridge Motorsports Park</td>
+                    </tr>
+                    <tr>
+                        <td>June 11-13</td>
+                        <td>
+                            <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
+                            <a href="http://omrra.com"><img src="../img/OMRRA-logo.jpg" height="25"/></a>
+                        </td>
+                        <td>Round 2</td>
+                        <td>Portland International Raceway</td>
+                    </tr>
+                    <tr>
+                        <td>June 19-20</td>
                         <td>
                             <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
                         </td>
                         <td>Round 3</td>
-                        <td>Pacific Raceways</td>
+                        <td>The Ridge Motorsports Park</td>
                     </tr>
                     <tr>
-                        <td>August 15-16</td>
+                        <td>July 10-11</td>
                         <td>
                             <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
                         </td>
                         <td>Round 4</td>
-                        <td>The Ridge Motorsports Park</td>
-                    </tr>
-                    <tr>
-                        <td>September 5-7</td>
-                        <td>
-                            <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
-                        </td>
-                        <td>Round 5</td>
                         <td>Pacific Raceways</td>
                     </tr>
                     <tr>
-                        <td>September 26-27</td>
+                        <td>July 16-18</td>
+                        <td>
+                            <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
+                            <a href="http://omrra.com"><img src="../img/OMRRA-logo.jpg" height="25"/></a>
+                        </td>
+                        <td>Round 5</td>
+                        <td>Portland International Raceway</td>
+                    </tr>
+                    <tr>
+                        <td>August 14-15</td>
+                        <td>
+                            <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
+                            <a href="http://omrra.com"><img src="../img/OMRRA-logo.jpg" height="25"/></a>
+                        </td>
+                        <td>Round 6</td>
+                        <td>The Ridge Motorsports Park</td>
+                    </tr>
+                    <tr>
+                        <td>September 11-12</td>
                         <td>
                             <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
                         </td>
-                        <td>Round 6</td>
-                        <td>Portland International Raceway</td>
+                        <td>Round 7</td>
+                        <td>Pacific Raceways</td>
                     </tr>
                 </tbody>
             </table>
