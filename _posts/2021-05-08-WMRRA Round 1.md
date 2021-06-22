@@ -4,7 +4,6 @@ title:  "2021 WMRRA Round 1"
 date:   2021-05-08 09:00 -0700
 categories: reports
 ---
-<!-- TODO: UPDATE PHOTOS -->
 
 ![](/img/race-report-photos/2021/2021-wmrra-r1-t15.jpg)
 
@@ -63,7 +62,7 @@ bike up and mowing the lawn a bit.
 #### Some much needed thanks
 It is great to have the first race of the season recorded. I want to thank my wife [Anna](https://www.instagram.com/anmapie) for all of her help this weekend. I had a lot of new things to manage and she helped keep things going.I also want to thank [Track Time](https://tracktime.bike/) for having me on staff. Having access to some of the highest quality instructors like [Ken Hill](https://www.facebook.com/ken.hill.3367) has helped me improve my riding over the last couple of seasons. If you are looking for coaching, or just a great organization to ride with, come sign up for a day and/or instruction.
 
-Also, thanks to Kumpy at KRS for getting new Dunlop rubber mounted up quickly at the start of the weekened.
+Also, thanks to Kumpy at KRS for getting new Dunlop rubber mounted up quickly at the start of the weekend.
 
 
 ![](/img/race-report-photos/2021/2021-wmrra-r1-offroading.jpg)
