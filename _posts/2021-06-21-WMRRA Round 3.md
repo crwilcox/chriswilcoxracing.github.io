@@ -20,7 +20,7 @@ June 19-20, 2021
 
 # Report:
 
-This weekend brought high temperatures, my first every F2 race, and some personal best lap times.
+This weekend brought high temperatures, my first ever F2 race, and some personal best lap times.
 
 ## Saturday
 
@@ -38,7 +38,7 @@ The lights for both Saturday races were super fast. Despite this I got a pretty 
 From the start of the day Sunday was shaping up to be a harder day than Sunday. In the morning practice there was an incident that required ambulances to be deployed on track. Unfortunately [Sam Crawford](https://www.facebook.com/sam.crawford.1104) went down in the morning practice and was unconscious. The medical professionals and track staff were amazing and super fast. While they were able to revive Sam trackside, he didn't make it to Mason General. Details on exactly what occrued are sparse, but Sam will be missed. I have known him since I started racing and he truly was a kind and positive human being. He will be missed in the paddock for sure.
 
 ## F2
-After feeling like Satuday was hot, Sunday was an oven. By F2 race time I had already consumed more than 1G of water and was using cooling towels. I got a much better start, really reflecting on how Saturday went. Unfortunately it wasn't good enough to keep [Mallory Dobbs](https://www.facebook.com/mallory.dobbs.5) and her extra pony Kawasaki 636 behind me. Even on her old bike Mallory was a hard to pass rider, but now it is next level. I tried everything I had but she came out on top. There was a potential move on the last lap but there was an incident in T13 with Sergio Gingerich and [Joel Ohman](https://www.facebook.com/profile.php?id=100069930093417) that meant I couldn't go for the pass there. It was still super fun racing and I found a lot of places I have never tried to pass before to give a go. Next time Mallory.
+After feeling like Satuday was hot, Sunday was an oven. By F2 race time I had already consumed more than 1G of water and was using cooling towels. I got a much better start, really reflecting on how Saturday went. Unfortunately it wasn't good enough to keep [Mallory Dobbs](https://www.facebook.com/mallory.dobbs.5) and her extra pony Kawasaki 636 behind me. Even on her old bike Mallory was a hard to pass rider, but now it is next level. I tried everything I had but she came out on top. There was a potential move on the last lap but there was an incident in T13 with [Sergio Gingerich](https://www.facebook.com/SergioGingerichRacing) and [Joel Ohman](https://www.facebook.com/profile.php?id=100069930093417) that meant I couldn't go for the pass there. It was still super fun racing and I found a lot of places I have never tried to pass before to give a go. Next time Mallory.
 
 ## 600 SBK Exhibition
 The heat got to folks and this race was a bit lighter on entries. I got an awesome start and was 3rd place into T1. I tried to stick with Ryan Doherty and Micah Kudo but they were on. I ended up giving up two places over the race to end 5th. Not a bad finish but I really think a few small changes and I could have been 3rd or 4th. 
