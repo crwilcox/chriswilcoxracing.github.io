@@ -5,7 +5,7 @@ date:   2021-07-18 09:00 -0700
 categories: reports
 ---
 
-![Photo by ___](/img/race-report-photos/2017-R6-placeholder-1.jpg)
+![Photo by Stevenson Foto](/img/race-report-photos/2021/2021-wmrra-r5-louis.jpg)
 
 # Track:
 Portland International Raceway, Portland, OR
@@ -40,6 +40,8 @@ The 600 Superbike was at the end of the day which meant I had plenty of time aft
 
 I got a great start for the Superbike race, really working through some riders into T1, giving myself good position for the race. I ended the race in 7th place. Finishing in the top 10 at Portland felt amazing!
 
+![Photo by Stevenson Foto](/img/race-report-photos/2021/2021-wmrra-r5-flowers-louis.jpg)
+
 ## Sunday
 
 All of the WMRRA points races were scheduled for Sunday. There were three races total, which are all of the classes I would normally run over a weekend. It was interesting to race so many races in a weekend (5 total) and I was excited about Sunday after my decent results on Saturday. I had spent Saturday night going over data, trying to find areas to improve and was exciting to put those learning to work in Formula 2.
@@ -51,6 +53,8 @@ The first race of the day was F2. I got a great start, in the top 10 into turn 1
 ### 600 Supersport - Sunday
 
 The next race, 600 SS started with a strong start as well. My lap times were mostly in the 1:13s and 1:14s, but I found a 1:12.972 during the event. This was my fastest ever lap at PIR. I was shocked given that I was dicing a lot with some other riders such as Miles McElhany and Micah Kudo. The pack in front (Garret Visser, Mallory Dobbs) had a gap to us, so the goal was to end up in front of my group. Mallory went down in T4 unfortunately but she cleared the track super fast; serious sprinter skills. In the end I was able to stay in front of the pack for a strong 7th place finish.
+
+![Photo by Stevenson Foto](/img/race-report-photos/2021/2021-wmrra-r5-t4-louis.jpg)
 
 ### 600 Superbike - Sunday
 
@@ -68,6 +72,4 @@ It was a race weekend full of racing and a load of fun riding with the Oregon Mo
 
 Thanks to my wife [Anna Piechowski](https://www.instagram.com/anmapie) for helping in the paddock, along with the rest of Short Fuse Racing. Thanks to [Track Time](https://tracktime.bike) for allowing me to marshal for the organization to become a better rider. Thanks to Kump Racing Service (KRS) and Dunlop for sticky tires.Thanks as well to the OMRRA and visiting WMRRA staff for doing all they can to host a safe and fun filled race round.
 
-
-![Photo by ___](/img/race-report-photos/2017-R6-placeholder-2.jpg)
-
+![Photo by Stevenson Foto](/img/race-report-photos/2021/2021-wmrra-r5-micah-louis.jpg)
