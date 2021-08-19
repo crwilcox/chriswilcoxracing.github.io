@@ -5,7 +5,7 @@ date:   2021-08-15 09:00 -0700
 categories: reports
 ---
 
-<!-- ![Photo by Stevenson Foto](/img/race-report-photos/2021/2021-wmrra-r5-louis.jpg) -->
+![Photo by Stevenson Foto](/img/race-report-photos/2021/2021-wmrra-r6-grid.jpg)
 
 # Track:
 The Ridge Motorsports Park, Shelton, WA
@@ -20,3 +20,5 @@ August 14, 2021
 
 # Report:
 Coming Soon...
+
+![Photo by Stevenson Foto](/img/race-report-photos/2021/2021-wmrra-r6-t13.jpg)
