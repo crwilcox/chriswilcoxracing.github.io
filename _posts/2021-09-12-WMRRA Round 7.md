@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "2021 WMRRA Round 7"
-date:   2021-08-12 09:00 -0700
+date:   2021-09-12 09:00 -0700
 categories: reports
 ---
 
-![Photo by Stevenson Foto](/img/race-report-photos/2021/2021-wmrra-r6-grid.jpg)
+![Photo by Stevenson Foto](/img/race-report-photos/2021/2021-wmrra-r7-t5.jpg)
 
 # Track:
 Pacific Raceways, Kent, WA
@@ -24,10 +24,6 @@ September 11, 2021
 
 ## 600 SS
 
-![Photo by Stevenson Foto](/img/race-report-photos/2021/2021-wmrra-r6-paul-grid.jpg)
-
-
-
 ## 600 SBK
 
 
@@ -35,4 +31,4 @@ September 11, 2021
 
 
 
-![Photo by Stevenson Foto](/img/race-report-photos/2021/2021-wmrra-r6-t13.jpg)
+![Photo by Stevenson Foto](/img/race-report-photos/2021/2021-wmrra-r7-bus-stop.jpg)
