@@ -24,7 +24,7 @@ Back on track for 2022!
 
 The weather this weekend was true to a PNW spring. Friday was pretty consistent rain, which made bike tech a damp affair. To top off the wet, it was COLD; 30s in the evening. Luckily the rain stopped around 6AM and by Qualifying the track was mostly dry, with the exception of a small stream through turn 11. This allowed for dry qualifying and I was able to get gridded in the 4th and 5th rows for my two races on Saturday. I am a so-so qualifier. Luckily I tend to be a decent starter.
 
-600 Supersport was up first. I was able to get an alright start, but didn't quite hang on to the group in front of me. I'd end up getting passed by Alex Kibis into the chicane. I also got a front seat view as he [tried to send himself skyward]( https://youtu.be/_GCWIgxpiig&t=490). It took two laps, but I got better exits out of 11, 12, allowing me to make a [block pass in turn 13 to regain that position](https://youtu.be/_GCWIgxpiig&t=680).
+600 Supersport was up first. I was able to get an alright start, but didn't quite hang on to the group in front of me. I'd end up getting passed by Alex Kibis into the chicane. I also got a front seat view as he [tried to send himself skyward](https://youtu.be/_GCWIgxpiig&t=490). It took two laps, but I got better exits out of 11, 12, allowing me to make a [block pass in turn 13 to regain that position](https://youtu.be/_GCWIgxpiig&t=680).
 
 Formula 600 had a similar feel to 600 Supersport, but I was able to finish a place higher. The race did have to be red flagged due to a sudden volume of rain. For an idea of what I mean, [this was my view into turn 6 just as they threw the red flag.](https://youtu.be/bm6tGzH0_Fs&t=540)
 
