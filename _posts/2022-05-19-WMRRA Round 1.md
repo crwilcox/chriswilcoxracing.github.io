@@ -28,11 +28,13 @@ The weather this weekend was true to a PNW spring. Friday was pretty consistent 
 
 Formula 600 had a similar feel to 600 Supersport, but I was able to finish a place higher. The race did have to be red flagged due to a sudden volume of rain. For an idea of what I mean, [this was my view into turn 6 just as they threw the red flag.](https://youtu.be/bm6tGzH0_Fs&t=540)
 
-And as usual I want to thank a few people for making this all work.
+## As usual I want to thank a few people for making this all work.
 
 Thanks to Sage at [CT Racing Services](https://ctracingservices.com/) this weekend. I decided to try out Pirelli again after taking a break and running Dunlop last year. The cold weather and unpredictable moisture made it hardly the ideal setting to do testing, but I was able to find the tweaks to my setup to make the tires work.
 
 Thanks to [Track Time](https://tracktime.bike) for giving me the opportunity to work with riders and get the track time I need to become a better rider. The entire team, from control riders, to owners Alan Schwen and Ken Hill, help me improve and grow each year as a rider.
+
+Thanks to [Nate](https://www.facebook.com/phippsnd) at [2WDW](https://2wheeldynoworks.com/) for putting time in with me in the offseason to find some extra power from my R6. I think we are probably at the max power from a stock R6 motor on pump gas. The bike rips!
 
 Thanks to Louis at [StevensonFoto](https://stevensonfoto.com/) for solid photos all weekend long. Even though I know he was hiding in a tree at one point to stay a bit drier, he stuck with it and captured this weekend for all of the racers.
 
