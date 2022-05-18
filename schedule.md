@@ -8,7 +8,7 @@ permalink: /schedule/
 <div class="container">
     <div class="row">
         <div class="col-lg-12 text-center">
-            <h2 class="section-heading">2021 Schedule</h2>
+            <h2 class="section-heading">2022 Schedule</h2>
             <h3 class="section-subheading text-muted"></h3>
         </div>
     </div>
@@ -25,7 +25,7 @@ permalink: /schedule/
                 </thead>
                 <tbody>	
                     <tr>
-                        <td>May 8-9</td>
+                        <td>May 6-8</td>
                         <td>
                             <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
                             <a href="http://omrra.com"><img src="../img/OMRRA-logo.jpg" height="25"/></a>
@@ -34,7 +34,7 @@ permalink: /schedule/
                         <td>The Ridge Motorsports Park</td>
                     </tr>
                     <tr>
-                        <td>June 11-13</td>
+                        <td>June 10-12</td>
                         <td>
                             <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
                             <a href="http://omrra.com"><img src="../img/OMRRA-logo.jpg" height="25"/></a>
@@ -43,15 +43,15 @@ permalink: /schedule/
                         <td>Portland International Raceway</td>
                     </tr>
                     <tr>
-                        <td>June 19-20</td>
+                        <td>June 25-26</td>
                         <td>
-                            <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
+                            <a href="http://race-cra.com"><img src="../img/CRA-Logo.png" height="25"/></a> California Roadrace
                         </td>
-                        <td>Round 3</td>
-                        <td>The Ridge Motorsports Park</td>
+                        <td>Round 2</td>
+                        <td>Laguna Seca</td>
                     </tr>
                     <tr>
-                        <td>July 10-11</td>
+                        <td>July 8-10</td>
                         <td>
                             <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
                         </td>
@@ -59,7 +59,7 @@ permalink: /schedule/
                         <td>Pacific Raceways</td>
                     </tr>
                     <tr>
-                        <td>July 16-18</td>
+                        <td>July 29-31</td>
                         <td>
                             <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
                             <a href="http://omrra.com"><img src="../img/OMRRA-logo.jpg" height="25"/></a>
@@ -68,7 +68,7 @@ permalink: /schedule/
                         <td>Portland International Raceway</td>
                     </tr>
                     <tr>
-                        <td>August 14-15</td>
+                        <td>August 19-21</td>
                         <td>
                             <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
                             <a href="http://omrra.com"><img src="../img/OMRRA-logo.jpg" height="25"/></a>
@@ -77,7 +77,7 @@ permalink: /schedule/
                         <td>The Ridge Motorsports Park</td>
                     </tr>
                     <tr>
-                        <td>September 11-12</td>
+                        <td>September 9-11</td>
                         <td>
                             <a href="http://wmrra.com"><img src="../img/WMRRA-logo.jpg" height="25"/></a>
                         </td>
@@ -89,3 +89,6 @@ permalink: /schedule/
         </div>
     </div>
 </div>
+
+
+![](/img/race-report-photos/2021/2021-wmrra-r3-grid.jpg)

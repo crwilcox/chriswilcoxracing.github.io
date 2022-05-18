@@ -41,3 +41,5 @@ Thanks to Louis at [StevensonFoto](https://stevensonfoto.com/) for solid photos 
 Last but not least thanks to my wife for letting me do this and to the rest of the team at Short Fuse Racing for supporting one another trackside. The weather may have been chilly, but the conversations and team dinner helped to make it bearable.
 
 Until next time!
+
+![Photo by Stevenson Foto](/img/race-report-photos/2022/2022-wmrra-r1-t6.jpg)
