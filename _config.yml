@@ -16,7 +16,7 @@
 title: Chris Wilcox Racing
 description: >- # this means to ignore newlines until "baseurl:"
   Chris Wilcox is a WMRRA and, occasionally, OMRRA racer. Currently he competes
-  in the 600 SS, 600 SBK, 600 Classic SBK, and Clubman classes.
+  in Formula 600, 600 SS, 600 SBK classes.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: chriswilcox47
