@@ -37,3 +37,35 @@
   class: 600 Superbike
   result: 18th
   video: https://youtu.be/Dp3qTu8fVl4
+
+- date: 2022/07/09
+  event: WMRRA Round 4
+  location: Pacific Raceways
+  report: /reports/2022/07/12/WMRRA-Round-4.html
+  class: 600SS
+  result: 8th
+  video: https://youtu.be/wXkgPSBh9xk
+
+- date: 2022/07/09
+  event: WMRRA Round 4
+  location: Pacific Raceways
+  report: /reports/2022/07/12/WMRRA-Round-4.html
+  class: Formula 600 - Saturday
+  result: 8th
+  video: https://youtu.be/vcO3zvZnKLY
+
+- date: 2022/07/10
+  event: WMRRA Round 4
+  location: Pacific Raceways
+  report: /reports/2022/07/12/WMRRA-Round-4.html
+  class: 600 SBK
+  result: 3rd
+  video: https://youtu.be/xGbItnv4B1g
+
+- date: 2022/07/10
+  event: WMRRA Round 4
+  location: Pacific Raceways
+  report: /reports/2022/07/12/WMRRA-Round-4.html
+  class: Formula 600 - Sunday
+  result: DNF
+  video: https://youtu.be/c4cvHJBoDyc
