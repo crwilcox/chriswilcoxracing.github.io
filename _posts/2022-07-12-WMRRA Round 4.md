@@ -25,7 +25,7 @@ Every race this weekend had something special about it, hard battles, a bit of
 bar rubbing with another rider, a mechanical, and my first 600 SBK podium!
 
 ## Practice and Saturday Qualifying
-I wasn't able to attend thetrack day, and the universe aligned. WMRRA managed to 
+I wasn't able to attend the track day, and the universe aligned. WMRRA managed to 
 secure additional track time and used it to lenghten practice and qualifying. I
 took full advantage of this and put some laps in Saturday morning. I also have
 been working to go straight to 'race' mode when qualifying comes. This has been
