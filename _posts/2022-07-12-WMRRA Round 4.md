@@ -48,8 +48,9 @@ I found out after the race they had a gentlemen's wager between
 the two of them and were having their own little battle back behind me as well.
 On the last lap Tim passed me into 3, hoping to use me as a buffer. Damon didn't
 agree with this concept though, following him right on through more or less. I
-worked to get good drive out of the bus stop so I could pass Damon back. Tim, 
-looks like you won the bet.
+worked to get good drive out of the bus stop so I could pass Damon back. It ended
+up being a very close finish with me in front of damon by two-hundredths (.020)
+of a second. Tim, looks like you won the bet.
 
 ## Formula 600 - Saturday
 
@@ -57,7 +58,7 @@ Formula 600 continued the fun. I was able to get a decent start and had a spaced
 
 ## Sunday Qualifying
 I got up Sunday morning hoping to repeat my qualifying performance from 
-Saturday. I managed to set laps about in line with my race pace which is amazing
+Saturday. I managed to set laps about in line with my race pace, a 1:31.484, which is amazing
 for me. This secured me a 6th place grid position for the race. Second row
 start, on a good line. I'll take it.
 
@@ -65,7 +66,7 @@ start, on a good line. I'll take it.
 I got a great start in 600 Superbike and was slotted into 4th. Garret Visser and Micah Kudo were in a close fight in front of me and I was doing all I could to hang on. Unfortunately Micah went down in the bus stop, but then I realized I
 was now in 3rd. I did everything I could to run consistent laps and not give up this place. I had an opportunity and I didn't want it to slip through my fingers. I was also glad Logan, the same Logan who had been racing me hard Saturday, was on the wall
 signaling the gap I had behind. Every time I would exit turn 4, I could see bikes entering and new I didn't have a giant gap. All race I seemed to be maintaining a good spacing, but on the final lap he moved his hands a bit closer together signaling
-that the riders behind were picking it up a bit, trying to close the gap. I put my head down to try and see if I couldn't find a bit more pace. Well, I pulled that off. I ran a 1:30.246 which smashed my personal best. As soon as I crossed
+that the riders behind were picking it up a bit, trying to close the gap. I put my head down to try and see if I couldn't find a bit more pace. Well, I pulled that off. I ran a 1:30.256 which smashed my personal best. As soon as I crossed
 the line, I screamed enough to darn near lose my voice. I had managed to get
 on the box in an Expert 600, superbike no less, race. I've had other podiums,
 but never in one of the premier 600 classes.
@@ -93,7 +94,9 @@ retorqued every bolt on my controls.
 I have to thank Short Fuse Racing for all of their support every race round.
 Our little team is a bit light right now with two riders out injured, but some
 of them even came out to support anyway. It's hard to fully explain just how
-helpful it is to have folks in the pits that can help go awry.
+helpful it is to have folks in the pits that can help go awry. Also special
+shout out to my teammate Dave Pearce who built the shiny new podiums I got to
+stand on this weekend.
 
 Thanks to [Track Time](https://tracktime.bike), Alan Schwen, Ken Hill, and all
 of the other staff members. I've been working with y'all for a while as we all
