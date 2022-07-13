@@ -5,7 +5,7 @@ date:   2022-07-12 00:00 -0700
 categories: reports
 ---
 
-![](/img/race-report-photos/2022/wmrra-r4-pacific/hat-medal-sponsors.jpg)
+![Thanking my sponsors](/img/race-report-photos/2022/wmrra-r4-pacific/hat-medal-sponsors.jpg)
 
 
 # Track:
@@ -56,7 +56,7 @@ of a second. Tim, looks like you won the bet.
 
 Formula 600 continued the fun. I was able to get a decent start and had a spaced out race for the first 3 laps. [Going into the bus stop on Lap 4](https://www.youtube.com/watch?v=vcO3zvZnKLY&t=375&ab_channel=ChrisWilcoxRacing) Logan Oster tried to get around me on the outside of the bus stop. We ended up touching arms through entry and both sat up a bit, spaced out and continued on. It was a solid attempt at a close pass. He tried again down the hill and got by. I was able to mostly match his pace, but wasn't quite as hungry for the place as he was I dont' think :) Good racing Logan!
 
-![](/img/race-report-photos/2022/wmrra-r4-pacific/the-look.jpg)
+![Giving Logan Oster a good stare... Photo by Louis Stevenson](/img/race-report-photos/2022/wmrra-r4-pacific/the-look.jpg)
 
 ## Sunday Qualifying
 I got up Sunday morning hoping to repeat my qualifying performance from 
@@ -73,7 +73,7 @@ the line, I screamed enough to darn near lose my voice. I had managed to get
 on the box in an Expert 600, superbike no less, race. I've had other podiums,
 but never in one of the premier 600 classes.
 
-![](/img/race-report-photos/2022/wmrra-r4-pacific/podium.jpg)
+![Podium](/img/race-report-photos/2022/wmrra-r4-pacific/podium.jpg)
 
 ## Formula 600 - Sunday
 
@@ -90,7 +90,7 @@ changed a shift rod this weekend to adjust the angle of the lever and I must
 have failed to properly secure that specific bolt. As soon as I got home, I
 retorqued every bolt on my controls.
 
-![](/img/race-report-photos/2022/wmrra-r4-pacific/up-the-hill.jpg)
+![Accelerating up the hill. Photo by Louis Stevenson](/img/race-report-photos/2022/wmrra-r4-pacific/up-the-hill.jpg)
 
 ## Thank You Roundup
 
@@ -124,4 +124,4 @@ out to the track to celebrate with me and Short Fuse.
 Can't wait to get back on track and continue to grow. See y'all in Portland.
 
 
-![](/img/race-report-photos/2022/wmrra-r4-pacific/post-race-w-bike.jpg)
+![Posing with the bike after the podium ceremony](/img/race-report-photos/2022/wmrra-r4-pacific/post-race-w-bike.jpg)
