@@ -56,6 +56,8 @@ of a second. Tim, looks like you won the bet.
 
 Formula 600 continued the fun. I was able to get a decent start and had a spaced out race for the first 3 laps. [Going into the bus stop on Lap 4](https://www.youtube.com/watch?v=vcO3zvZnKLY&t=375&ab_channel=ChrisWilcoxRacing) Logan Oster tried to get around me on the outside of the bus stop. We ended up touching arms through entry and both sat up a bit, spaced out and continued on. It was a solid attempt at a close pass. He tried again down the hill and got by. I was able to mostly match his pace, but wasn't quite as hungry for the place as he was I dont' think :) Good racing Logan!
 
+![](/img/race-report-photos/2022/wmrra-r4-pacific/the-look.jpg)
+
 ## Sunday Qualifying
 I got up Sunday morning hoping to repeat my qualifying performance from 
 Saturday. I managed to set laps about in line with my race pace, a 1:31.484, which is amazing
@@ -88,6 +90,7 @@ changed a shift rod this weekend to adjust the angle of the lever and I must
 have failed to properly secure that specific bolt. As soon as I got home, I
 retorqued every bolt on my controls.
 
+![](/img/race-report-photos/2022/wmrra-r4-pacific/up-the-hill.jpg)
 
 ## Thank You Roundup
 
