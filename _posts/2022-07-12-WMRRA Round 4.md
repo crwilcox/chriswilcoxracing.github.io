@@ -32,6 +32,8 @@ been working to go straight to 'race' mode when qualifying comes. This has been
 a struggle for me since it isn't a 'race' at all. Well, it seems I managed to
 get closer this weekend, qualifying 6-8th for all of my races this weekend.
 
+![Headed up Turn 7. Photo by Louis Stevenson](/img/race-report-photos/2022/wmrra-r4-pacific/t7.jpg)
+
 ## 600 Supersport
 600 Supersport was the first race of the weekend. Elijah, our race starter, was
 on a mission to catch some of us out with some quick lights at the start. I 
