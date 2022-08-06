@@ -69,3 +69,43 @@
   class: Formula 600 - Sunday
   result: DNF
   video: https://youtu.be/c4cvHJBoDyc
+
+- date: 2022/07/30
+  event: WMRRA/OMRRA Round 5
+  location: Portland International Raceways
+  report: /reports/2022/08/01/WMRRA-Round-5.html
+  class: 600 Supersport - Saturday
+  result: 9th
+  video: https://youtu.be/3Dw8mRVFgVk
+
+- date: 2022/07/30
+  event: WMRRA/OMRRA Round 5
+  location: Portland International Raceways
+  report: /reports/2022/08/01/WMRRA-Round-5.html
+  class: 600 Superbike - Saturday
+  result: 12th
+  video: https://youtu.be/AtndDwdWUto
+
+- date: 2022/07/31
+  event: WMRRA/OMRRA Round 5
+  location: Portland International Raceways
+  report: /reports/2022/08/01/WMRRA-Round-5.html
+  class: 600 Amateur - Sunday
+  result: 2nd
+  video: https://youtu.be/Uw4Tk3jrhTQ
+
+- date: 2022/07/31
+  event: WMRRA/OMRRA Round 5
+  location: Portland International Raceways
+  report: /reports/2022/08/01/WMRRA-Round-5.html
+  class: 600 Supersport - Sunday
+  result: 10th
+  video: https://youtu.be/umd3XE1PxV8
+
+- date: 2022/07/31
+  event: WMRRA/OMRRA Round 5
+  location: Portland International Raceways
+  report: /reports/2022/08/01/WMRRA-Round-5.html
+  class: 600 Superbike - Sunday
+  result: 11th
+  # camera wouldn't turn on. Too warm.
