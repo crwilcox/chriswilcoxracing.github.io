@@ -27,9 +27,16 @@ When not racing Chris works with [Track Time](https://tracktime.bike/), a premie
 
 [View more race reports](/race-reports)
 
+
 # Thank you to my sponsors
 
-[![TrackTime Track Days and Rider Training](img/sponsors/tracktime.png)](http://tracktime.bike)
-
-    
-
+<table>
+  <tr>
+    <a href="https://shortfuseracing.com">
+      <img height=200 src="/img/sponsors/short_fuse.png" />
+    </a>
+    <a href="http://tracktime.bike">
+      <img height=200 src="/img/sponsors/tracktime.png" />
+    </a>
+  </tr>
+</table>
