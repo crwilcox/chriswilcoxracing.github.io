@@ -109,3 +109,35 @@
   class: 600 Superbike - Sunday
   result: 11th
   # camera wouldn't turn on. Too warm.
+
+- date: 2022/08/20
+  event: WMRRA/OMRRA Round 6
+  location: The Ridge Motorsports Park
+  report: /reports/2022/08/22/WMRRA-Round-6.html
+  class: 600 Supersport - Saturday
+  result: 9th
+  video: https://youtu.be/ToTErpjT0Cc
+
+- date: 2022/08/20
+  event: WMRRA/OMRRA Round 6
+  location: The Ridge Motorsports Park
+  report: /reports/2022/08/22/WMRRA-Round-6.html
+  class: Formula 600 - Saturday
+  result: 8th
+  video: https://youtu.be/JsnvkMeO4Uw
+
+- date: 2022/08/21
+  event: WMRRA/OMRRA Round 6
+  location: The Ridge Motorsports Park
+  report: /reports/2022/08/22/WMRRA-Round-6.html
+  class: 600 Superbike - Sunday
+  result: 8th
+  video: https://youtu.be/DGys9LcEmgw
+
+- date: 2022/08/21
+  event: WMRRA/OMRRA Round 6
+  location: The Ridge Motorsports Park
+  report: /reports/2022/08/22/WMRRA-Round-6.html
+  class: Formula 600 - Sunday
+  result: 5th
+  video:  https://youtu.be/yDd5r2cOjD0

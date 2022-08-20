@@ -38,5 +38,11 @@ When not racing Chris works with [Track Time](https://tracktime.bike/), a premie
     <a href="http://tracktime.bike">
       <img height=200 src="/img/sponsors/tracktime.png" />
     </a>
+    <a href="http://ctracingservices.com">
+      <img height=200 src="/img/sponsors/ctr-pirelli-logo-square.jpg" />
+    </a>
+    <a href="http://stevensonfoto.com">
+      <img height=200 src="/img/sponsors/stevensonfoto.jpg" />
+    </a>
   </tr>
 </table>
