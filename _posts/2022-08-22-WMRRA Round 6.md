@@ -37,7 +37,7 @@ feature in turn 8.
 During the week, a car day had an incident in which a stock car bottomed out
 through turn 7 and split its oil pan open. It turns out a car has a lot more
 oil than a motorcycle. I have to applaud the car driver for having a perfect
-line through that sectoin. From the exit of 7, to the apex of 8a, there is a
+line through that section. From the exit of 7, to the apex of 8a, there is a
 line of oil that shows you the ideal way around the track. And at the apex of
 8a, there is a kiddie pool sized circle of oil.
 
@@ -45,7 +45,7 @@ Luckily WMRRA stepped up here. The folks I talked to that attended the Friday
 day had a hard time through that corner, tiptoeing around a bit. WMRRA worked
 to fix this the best they could. The track had alread grease sweep'd the area
 but based on feedback Friday it had fallen short of the ideal cleanup. WMRRA
-requested thet rack be rinsed and The Ridge obliged by dumping a lot of water
+requested the track be rinsed and The Ridge obliged by dumping a lot of water
 Friday night. Race direction said this didn't so much get rid of oil as remove
 the track's grease sweep. Saturday morning WMRRA went out and brought their own
 grease sweep and an army of volunteers to scrub the area. I have to say I felt
@@ -98,8 +98,11 @@ the session though, I notice my airbag suit had just a red light, which isn't a
 thing I have seen before. It turns out it means it is in a failed state and I'd
 need to plug it in to my computer and diagnose. But I didn't have time for that.
 Qualifying is 15 minutes long and it is starting NOW. So, for this time, it
-seems I am going to be going out with a heavy, and rather expensive, backprotector. Well, on a positive not this did get my adrenaline going. I set two laps that were right about my race pace, thinking about a red light on my
-forearm almost the entire time, and pulled off as I wanted to limit my risk. Well, turns out that was a fine choice. I qualified 5th for Formula 600.
+seems I am going to be going out with a heavy, and rather expensive, back
+protector. Well, on a positive notethis did get my adrenaline going. I set two
+laps that were right about my race pace, thinking about a red light on my
+forearm almost the entire time, and pulled off as I wanted to limit my risk.
+Well, turns out that was a fine choice. I qualified 5th for Formula 600.
 
 ### 600 SBK
 
