@@ -5,7 +5,7 @@ date:   2022-08-01 00:00 -0700
 categories: reports
 ---
 
-![](/img/race-report-photos/2022/wmrra-r6-ridge/STF09940.jpg)
+![That mountain](/img/race-report-photos/2022/wmrra-r6-ridge/STF09940-tt.jpg)
 
 # Track:
 The Ridge Motorsports Park, Shelton, WA
@@ -64,6 +64,8 @@ For an added incentive, Paul McComsey and Mark Szilveszter decided to have a
 small bet. Paul was certain I could beat Mark in all of our race events. Mark
 was certain Paul was going to lose that bet. You know, no pressure...
 
+![Light rear into T13](/img/race-report-photos/2022/wmrra-r6-ridge/STF05134TS.jpg)
+
 ### 600 Supersport
 
 For the 600 supersport event 41 racers entered. Starting in 21st seemed a bit
@@ -74,6 +76,8 @@ many more rounds this size!
 I was able to get a good start, making up a couple of rows into turn 1, slotting in to 10th. The first time into turn 7/8 was a little nerve-racking and I lost some time through it. Luckily after the first lap I seemed to figure out the grip level was alright.
 
 On the second lap Visser came around me and added some distance between the two riders in front me. I figured I could get by one if not both of them, so I figured I should be able to go 11th to 9th. What I didn't expect is I would do that on the same lap. I was able to pass Kent Swenseid into turn 8, and Damon Poor into turn 11. The race ended early due to a red flag as Damon unfortunately crashed into turn 13. I was able to finish in 9th.
+
+![Down the hill](/img/race-report-photos/2022/wmrra-r6-ridge/STF08746.jpg)
 
 ### Formula 600
 
@@ -87,6 +91,8 @@ looking for. I also spent this event behind Visser for the entirety of the
 race. I don't think by the end there wasn't a corner I didn't think I could
 push for a pass. Our pace really is quite similar. It was a fun race, even if
 by the end I never wanted to smell race gas again. Good riding Garret.
+
+![Follow the leader through T13](/img/race-report-photos/2022/wmrra-r6-ridge/STF00618.jpg)
 
 ## Sunday
 
@@ -104,6 +110,8 @@ laps that were right about my race pace, thinking about a red light on my
 forearm almost the entire time, and pulled off as I wanted to limit my risk.
 Well, turns out that was a fine choice. I qualified 5th for Formula 600.
 
+![Through T6](/img/race-report-photos/2022/wmrra-r6-ridge/STF02469.jpg)
+
 ### 600 SBK
 
 Unlike F600, 600SBK grid is set by Saturday Qualifying and I'd be on row 7, so
@@ -120,6 +128,7 @@ Micah Kudo made a clean pass into turn 6. I wasn't far off of him for the rest
 of the race but his pace was a hair faster than mine. He ran solid times for
 the rest of the event. I took my second 8th place of the weekend.
 
+![Joel photobombing](/img/race-report-photos/2022/wmrra-r6-ridge/STF02535.jpg)
 
 ### Formula 600 
 
@@ -144,7 +153,7 @@ capitalize. Unfortunatly I was 0.100 seconds shy of getting him at the line. I
 was hoping in a race to make Garret stare at the back of my helmet but I guess
 it will have to wait for next time.
 
-![](/img/race-report-photos/2022/wmrra-r6-ridge/STF08746.jpg)
+![](/img/race-report-photos/2022/wmrra-r6-ridge/STF08746-tt.jpg)
 
 
 ## Summary, Thank You Roundup
