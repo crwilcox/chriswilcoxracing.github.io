@@ -77,7 +77,7 @@ I was able to get a good start, making up a couple of rows into turn 1, slotting
 
 On the second lap Visser came around me and added some distance between the two riders in front me. I figured I could get by one if not both of them, so I figured I should be able to go 11th to 9th. What I didn't expect is I would do that on the same lap. I was able to pass Kent Swenseid into turn 8, and Damon Poor into turn 11. The race ended early due to a red flag as Damon unfortunately crashed into turn 13. I was able to finish in 9th.
 
-![Down the hill](/img/race-report-photos/2022/wmrra-r6-ridge/STF08746.jpg)
+![Down the hill](/img/race-report-photos/2022/wmrra-r6-ridge/STF08746-tt.jpg)
 
 ### Formula 600
 
