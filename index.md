@@ -46,3 +46,6 @@ When not racing Chris works with [Track Time](https://tracktime.bike/), a premie
     </a>
   </tr>
 </table>
+
+<!-- Mastodon Verification -->
+<a rel="me" href="https://hachyderm.io/@chriswilcox"></a>
