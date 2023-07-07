@@ -18,7 +18,9 @@ June 17, 2023
 {% include display_results.html %}
 
 # Report:
+![Photo by Louis Stevenson](/img/race-report-photos/2023/wmrra-r3/96787149-STF05187.JPG)
 
+!()[96787149-STF05187]
 Going to keep this report short.
 
 It was great to get out at the Ridge, it always is, for a couple of Races. I
