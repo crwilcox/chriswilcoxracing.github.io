@@ -1,4 +1,4 @@
-- date: 2022/03/25
+- date: 2023/03/25
   event: CVMA Round 6
   location: Chuckwalla Valley Raceway
   report: /reports/2022/03/27/CVMA-Round-6.html
@@ -6,7 +6,7 @@
   result: 26th
   video: https://youtu.be/8FhrsWXc79w
 
-- date: 2022/03/25
+- date: 2023/03/25
   event: CVMA Round 6
   location: Chuckwalla Valley Raceway
   report: /reports/2022/03/27/CVMA-Round-6.html
@@ -14,7 +14,7 @@
   result: 26th
   video: https://youtu.be/BlYgUYGP_5U
 
-- date: 2022/03/26
+- date: 2023/03/26
   event: CVMA Round 6
   location: Chuckwalla Valley Raceway
   report: /reports/2022/03/27/CVMA-Round-6.html
@@ -22,10 +22,28 @@
   result: 24th
   video: https://youtu.be/hdqzr5wlDos
 
-- date: 2022/03/26
+- date: 2023/03/26
   event: CVMA Round 6
   location: Chuckwalla Valley Raceway
   report: /reports/2022/03/27/CVMA-Round-6.html
   class: Formula Middleweight
   result: 14th
   video: https://youtu.be/4TGklPlrwN8
+
+
+- date: 2023/06/17
+  event: WMRRA Round 3
+  location: Ridge Motorsports Park
+  report: /reports/2023/03/27/CVMA-Round-6.html
+  class: 600SS
+  result: 10th
+  video:
+
+- date: 2023/06/17
+  event: WMRRA Round 3
+  location: Ridge Motorsports Park
+  report: /reports/2023/03/27/CVMA-Round-6.html
+  class: Formula 600
+  # Timing Isn't up, Can't find result.
+  result:
+  video:
