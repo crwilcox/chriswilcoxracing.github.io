@@ -104,6 +104,8 @@ the bike and I took a light tumble. I am not much of a crasher. The last solo
 crash I had was in August of 2018. I got a bit ambitious and sometimes you find
 the limit.
 
+[Watch the Crash](https://www.youtube.com/watch?v=5zZQmD-NVHA&t=447s&ab_channel=ChrisWilcoxRacing)
+
 ![The Damage](/img/race-report-photos/2023/wmrra-r4/crash-photo.jpg)
 
 ## Summary
@@ -114,6 +116,11 @@ amazing, and my KYT helmet did its job in full. I am writing this report post
 round with a small shoulder bruise and a larger bruised ego. Having quality
 safety equipment makes it easier to take risks on track as I know it is there
 to protect me.
+
+Thanks to Louis Stevenson for taking the photos and providing treats, as well
+as making a great pitmate. Thanks to Colin Carihill for sharing a van down to
+Portland from Seattle. And thanks to Dave Pearce for loaning out his pimped out
+sprinter for us to hang out in style this weekend.
 
 The race schedule this year means we have a gap so plenty of time for me to fix
 the bike and prepare mentally to go out there again. Luckily, I have a TrackTime
