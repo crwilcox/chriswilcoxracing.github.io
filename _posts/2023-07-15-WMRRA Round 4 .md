@@ -84,7 +84,7 @@ improve my times on Saturday, but I felt I could find a bit more pace.
 
 Betwen my two events my teammate was in the Formula 40 race. He rides a Kramer 890
 and, in a race of 1000cc Superbikes, he is a bit outgunned. Rather than stress
-it, we tried to make the bit mood light. We cranked the music, joked around,
+it, we tried to make the pit mood light. We cranked the music, joked around,
 and just didn't worry too much. I had arranged to pull a bit of a joke on him
 as well. When he entered hot pit, I was standing there with an umbrella. It's
 hot out here, who doesn't need some shade?
