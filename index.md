@@ -35,6 +35,9 @@ When not racing Chris works with [Track Time](https://tracktime.bike/), a premie
     <a href="https://shortfuseracing.com">
       <img height=200 src="/img/sponsors/short_fuse.png" />
     </a>
+     <a href="https://kytamericas.com">
+      <img height=100 src="/img/sponsors/kyt.png" />
+    </a>
     <a href="http://tracktime.bike">
       <img height=200 src="/img/sponsors/tracktime.png" />
     </a>
