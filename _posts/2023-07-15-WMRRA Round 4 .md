@@ -48,7 +48,7 @@ I took to the grid for 600SS and got a reasonably good start. The chicane can
 be a bit of a jam point so getting off the line and keeping your elbows out on
 the start is important. When I came into turn 3 though red flags were showing.
 It turns out 4 bikes had went down due to a rider coming in to the chicane
-rather hot ([video](TODO TODO TODO)).
+rather hot... ([video](https://youtu.be/36KBvUJho74))
 
 We'd get a restart and I was able to again get a solid start. I finished the
 race in 7th place and was back to my personal best times, 1:21.6.
