@@ -55,13 +55,14 @@ race in 7th place and was back to my personal best times, 1:21.6.
 
 The weather really began to heat up as we headed later into the day.
 
-![Thermometer](/img/race-report-photos/2023/wmrra-r4/thermometer.jpg)
+<img height=400 src="/img/race-report-photos/2023/wmrra-r4/thermometer.jpg"/>
+
 
 Fortunately Louis Stevenson, my pit mate and photographer extraordinaire, brings
 a freezer with treats. Otter pops hit different when you are baking in the hot
 sun.
 
-![A Frosty Treats](/img/race-report-photos/2023/wmrra-r4/a-frosty-treat.jpg)
+<img height=600 src="/img/race-report-photos/2023/wmrra-r4/a-frosty-treat.jpg"/>
 
 I was hoping to build on my SS performance in SBK. My start was alright but
 the chicane turned into a parking lot. I ended up getting backed up. I would
@@ -87,7 +88,7 @@ and just didn't worry too much. I had arranged to pull a bit of a joke on him
 as well. When he entered hot pit, I was standing there with an umbrella. It's
 hot out here, who doesn't need some shade?
 
-![Umbrella Girl](/img/race-report-photos/2023/wmrra-r4/umbrella-girl.png)
+<img height=600 src="/img/race-report-photos/2023/wmrra-r4/umbrella-girl.png"/>
 
 Going into 600SBK, I was able to get an alright start. I spent the laps reeling
 in two riders that were in touch in front of me. As I clicked off the laps my
