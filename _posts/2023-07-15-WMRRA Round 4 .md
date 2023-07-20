@@ -25,11 +25,11 @@ July 15-16, 2023
 I only make it down to Portland once a season typically. This season had more
 rounds down south, but the schedule didn't work well with my other events this
 year, so again I made it down for the July round. You'd think I learned my
-lesson last year with the heat, but I came back anywhere. It was cooler than
+lesson last year with the heat, but I came back anyway. It was cooler than
 last year, but it was still a scorcher.
 
 Originally I was planning to come down for the Friday practice day, but it
-wasn't in the cards, I arrived in Portland around 9PM Friday and got setup to
+wasn't in the cards, I arrived in Portland around 9 PM Friday and got setup to
 go in the AM.
 
 ![Friday Pits](/img/race-report-photos/2023/wmrra-r4/friday-pits.jpg)
@@ -43,7 +43,8 @@ figured out. I usually find additional time come racing.
 
 ![Photo by Louis Stevenson](/img/race-report-photos/2023/wmrra-r4/STF09697.jpg)
 
-Portland runs a very similar schedule both days; a 600SS and 600SBK event each day.
+OMRRA, the host of our PIR rounds, runs a very similar schedule both days; a 
+600SS and 600SBK event each day.
 I took to the grid for 600SS and got a reasonably good start. The chicane can
 be a bit of a jam point so getting off the line and keeping your elbows out on
 the start is important. When I came into turn 3 though red flags were showing.
