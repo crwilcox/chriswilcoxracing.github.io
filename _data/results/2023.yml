@@ -47,3 +47,40 @@
   # Timing Isn't up, Can't find result.
   result:
   video: https://youtu.be/Io7pN-j-56k
+
+
+
+- date: 2023/07/15
+  event: WMRRA Round 4
+  location: Portland International Raceway
+  report: /reports/2023/07/15/WMRRA-Round-4.html
+  class: 600 SS
+  result: 7th
+  video: https://youtu.be/J1cCGOGlrA4
+
+- date: 2023/07/15
+  event: WMRRA Round 4
+  location: Portland International Raceway
+  report: /reports/2023/07/15/WMRRA-Round-4.html
+  class: 600 SBK
+  result: 10th
+  video: https://youtu.be/LffMARG_ifk
+
+
+- date: 2023/07/16
+  event: WMRRA Round 4
+  location: Portland International Raceway
+  report: /reports/2023/07/15/WMRRA-Round-4.html
+  class: 600 SS
+  result: 7th
+  # Didn't record
+  video:
+
+
+- date: 2023/07/16
+  event: WMRRA Round 4
+  location: Portland International Raceway
+  report: /reports/2023/07/15/WMRRA-Round-4.html
+  class: 600 SBK
+  result: DNF
+  video: https://youtu.be/5zZQmD-NVHA
