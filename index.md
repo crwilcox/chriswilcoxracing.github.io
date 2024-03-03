@@ -15,6 +15,7 @@ Chris is also a long-time volunteer of WMRRA and former executive board member (
 
 When not racing Chris works with [Track Time](https://tracktime.bike/), a premier track day provider in Washington State owned and operated by [Ken Hill](http://khcoaching.com/) and Alan Schwen, to grow riders in the Pacific Northwest.
 
+# [Race Results](/results)
 
 # Recent Race Reports
 <ul>
