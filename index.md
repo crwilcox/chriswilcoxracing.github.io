@@ -13,7 +13,7 @@ Chris Wilcox is a regional road racer participating in [WMRRA](https://wmrra.com
 
 Chris is also a long-time volunteer of WMRRA and former executive board member (2nd VP). You can find him most race weekends at Friday night tech, making sure machinery and gear are in order for the weekend's events.
 
-When not racing Chris works with [Track Time](https://tracktime.bike/), a premier track day provider in Washington State owned and operated by [Ken Hill](http://khcoaching.com/) and Alan Schwen, to grow riders in the Pacific Northwest.
+When not racing Chris works with [Track Time](https://tracktime.bike/), a premier track day provider in Washington State to grow riders in the Pacific Northwest. Reach out if you are looking to attend for 1-on-1 rider instruction.
 
 # [Race Results](/results)
 
