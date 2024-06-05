@@ -21,63 +21,59 @@ I tried to list everything that has been done below, this bike is far from OEM.
 # The Deeper Details
 
 ### Engine / Power ###
-DNA High Flow Air Filter 
-Rottweiller Intake Power Plate
-Full Arrow Exhaust System
-Rapid Bike Race System (top of line version, fully configurable)
-KTM Power/Track Pack (Quick Shifting, Traction Control, …)
-Factory Pro Shift Kit
-Engine has been dyno'd as well as inspected to ensure it's well built. Internals are mostly OEM, but a few things were swapped out. Happy to go over the finer points with the new owner. Should produce a bit more power than completely stock without change to engine life.
+- DNA High Flow Air Filter 
+- Rottweiller Intake Power Plate
+- Full Arrow Exhaust System
+- Rapid Bike Race System (top of line version, fully configurable)
+- KTM Power/Track Pack (Quick Shifting, Traction Control, …)
+- Factory Pro Shift Kit
+- Engine has been dyno'd as well as inspected to ensure it's well built. - Internals are mostly OEM, but a few things were swapped out. Happy to go over the finer points with the new owner. Should produce a bit more power than completely stock without change to engine life.
 
 ### Protection ###
-KTM Ignition Cover
-KTM Clutch Cover
-Evotech Radiator Guard
-Woodcraft Frame sliders
-Woodcraft Rear Slider Spools
-Evotech Front Axle Slider
-KTM Brake Lever Guard
+- KTM Ignition Cover
+- KTM Clutch Cover
+- Evotech Radiator Guard
+- Woodcraft Frame sliders
+- Woodcraft Rear Slider Spools
+- Evotech Front Axle Slider
+- KTM Brake Lever Guard
 
 ### Controls / Ergonomics ###
-Bonamici Rearsets (set of spare pegs also included, one for each side)
-G2 Billet Throttle Tube (Smoother Turning, OEM Tube and Grips included)
-Techspec Tank Grips
-KTM Ergo Seat
-KTM Passenger Seat Delete
-Motogadget mView Bar End Mirror (Stock Mirrors also included)
-New brake pads installed at 1942 mi. (Vesrah 9031 XX Pads)
+- Bonamici Rearsets (set of spare pegs also included, one for each side)
+- G2 Billet Throttle Tube (Smoother Turning, OEM Tube and Grips included)
+- Techspec Tank Grips
+- KTM Ergo Seat
+- KTM Passenger Seat Delete
+- Motogadget mView Bar End Mirror (Stock Mirrors also included)
+- New brake pads installed at 1942 mi. (Vesrah 9031 XX Pads)
 
 ### Cosmetic ###
-Tail Tidy (Fender Eliminator) and LED Tail Light Installed
-LED Aftermarket Turn signals installed (OEM Signals Included and a few spare LED ones as well)
-Dash protector installed
-Samco Hose Kit
+- Tail Tidy (Fender Eliminator) and LED Tail Light Installed
+- LED Aftermarket Turn signals installed (OEM Signals Included and a few spare LED ones as well)
+- Dash protector installed
+- Samco Hose Kit
 
 ### Parts to Track Prep ###
-Headlight Delete Kit 
-Bellypan
-Track Taillight, Number Plate Adapter, AIM Laptimer Mount made by Alex Taylor (Hooligans, OMRRA Racer)
+- Headlight Delete Kit 
+- Bellypan
+- Track Taillight, Number Plate Adapter, AIM Laptimer Mount made by Alex Taylor (Hooligans, OMRRA Racer)
 
 ### Also Included ###
-Pit Bull TRS Pins, KTM 890R (may fit other models as well)
+- Pit Bull TRS Pins, KTM 890R (may fit other models as well)
 
-OEM Passenger Seat + OEM Passenger Rearsets
-KTM Factory Parts Rearsets (will sell for $350)
-OEM Rearsets (will sell for $200)
+- OEM Passenger Seat + OEM Passenger Rearsets
+- KTM Factory Parts Rearsets (will sell for $350)
+- OEM Rearsets (will sell for $200)
 
-OEM Seat
-OEM Throttle tube and grips
-OEM Exhaust System
-OEM Air Filter and Air Filter Box Lid
-Another set of Spool Lifts
-Additional Rear Shock Spring (Stiffer) if you are bigger than 160# or so, may be better.
-Selection of Sprockets, Some New. Bike has 39 Rear and 16T Front installed. 41R, 16F, 15F additional.
-ABS Delete Kit, Allows removal of ABS Module without engine code for aftermarket brake lines.
-Rapid Bike USB Cable. Can provide software as well.
-
-
-OBD II Adapter (for diagnostics)
-Woodcraft WaterPump Protector (Not-Installed, new in box, will sell for $125)
+- OEM Seat
+- OEM Throttle tube and grips
+- OEM Exhaust System
+- OEM Air Filter and Air Filter Box Lid
+- Another set of Spool Lifts
+- Additional Rear Shock Spring (Stiffer) if you are bigger than 160# or so, may be better.
+- Selection of Sprockets, Some New. Bike has 39 Rear and 16T Front installed. 41R, 16F, 15F additional.
+- ABS Delete Kit, Allows removal of ABS Module without engine code for aftermarket brake lines.
+- Rapid Bike USB Cable. Can provide software as well.
 
 
 {% for variable in (2..19) %}
