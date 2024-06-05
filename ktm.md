@@ -5,6 +5,8 @@
 
 $11,500 including all listed parts below.
 
+[Google Sheet with most parts on bike, as well as mileage at install](https://docs.google.com/spreadsheets/d/1vohaXKyUUpJ4jBKXS-wUV5Gc16H2iaNAQ6Dl1Ke3kOU/edit#gid=0)
+
 This KTM 890R Duke is relatively new, 2051 miles. It's never been crashed, been cared for well, and has been well setup. I have the OEM parts if you want to revert any changes, as well as some spare parts that aren't installed yet. It's a fun motorcycle and is at home on the street or a race track.
 
 Between what is installed and what is included, you would have enough to set this up as a race motorcycle, or just a really slick looking streetbike. this motorcycle has been dyno'd and puts out more power to the rear wheel than my 600CC Sportbike. So if powerful motorcycles with lots of torque are your thing, or if you have been thinking about going racing with WMRRA/OMRRA/MotoAmerica SuperHooligans, this could be the ticket.
@@ -46,7 +48,7 @@ Motogadget mView Bar End Mirror (Stock Mirrors also included)
 New brake pads installed at 1942 mi. (Vesrah 9031 XX Pads)
 
 ### Cosmetic ###
-Tail Tidy and LED Tail Light Installed
+Tail Tidy (Fender Eliminator) and LED Tail Light Installed
 LED Aftermarket Turn signals installed (OEM Signals Included and a few spare LED ones as well)
 Dash protector installed
 Samco Hose Kit
