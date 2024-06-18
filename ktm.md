@@ -3,7 +3,7 @@
  ![](/img/ktm-890r/File{{ variable }}.jpg)
 {% endfor %}
 
-$11,500 including all listed parts below.
+$10,500 including all listed parts below.
 
 [Google Sheet with most parts on bike, as well as mileage at install](https://docs.google.com/spreadsheets/d/1vohaXKyUUpJ4jBKXS-wUV5Gc16H2iaNAQ6Dl1Ke3kOU/edit#gid=0)
 
