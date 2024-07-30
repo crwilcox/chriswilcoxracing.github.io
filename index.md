@@ -7,7 +7,7 @@ layout: page
 ---
 
 <!-- ![](img/76825961-IMG_5971-cropped2.jpeg) -->
-![](/img/race-report-photos/2021/2021-gearing-up.jpg)
+![](/img/race-report-photos/2024/2024-R3-Rear.jpg)
 
 Chris Wilcox is a regional road racer participating in [WMRRA](https://wmrra.com) (Washington Motorcycle Road Racing Association) and [OMRRA](https://omrra.com) (Oregon Motorcycle Road Racing Association), participating in Formula 600, 600 Supersport, and 600 Superbike clases.
 
