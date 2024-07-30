@@ -39,7 +39,7 @@ Sunday qualifying went well enough to put me back on the second row. On a positi
 
 My (unexpectedly) final race of Sunday was 600 SBK. I didn't get an amazing start and needed to try and claw back places. I spent most of my race behind Garret Visser. I'd seen many of his laps, knew where I was stronger and would spend the second half of the race trying to make my way around him, but he defended well. On the last lap, I figured I could get up the back hill (8/9/10) than Garret, and then be on the inside to Turn 11. I did get a better drive up the hill, and I was even, possibly in front as we crested, but it became clear to me that Garret didn't know I was there. We chatted after and he said he never saw me. I backed out, tried to slow up enough to file in, but I missed it by an inch or two. That's when the fun really began.
 
-At about 70 MPH at that point, our wheels touched and I met the ground. I then slid into the gravel where I proceeded to do 3+ barrel rolls before stopping. My bike had made even more distance than I had. The [camera footage](https://youtu.be/kX2MmCzxj6c&t=850) shows my R6 also decided it wanted to do some rolls as well.
+At about 70 MPH at that point, our wheels touched and I met the ground. I then slid into the gravel where I proceeded to do 3+ barrel rolls before stopping. My bike had made even more distance than I had. The [camera footage](https://youtu.be/SMW9KP3wRWE&t=850) shows my R6 also decided it wanted to do some rolls as well.
 
 The Positives:
 
