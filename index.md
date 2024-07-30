@@ -9,7 +9,7 @@ layout: page
 <!-- ![](img/76825961-IMG_5971-cropped2.jpeg) -->
 ![](/img/race-report-photos/2024/2024-R3-Rear.jpg)
 
-Chris Wilcox is a regional road racer participating in [WMRRA](https://wmrra.com) (Washington Motorcycle Road Racing Association) and [OMRRA](https://omrra.com) (Oregon Motorcycle Road Racing Association), participating in Formula 600, 600 Supersport, and 600 Superbike clases.
+Chris Wilcox is a regional road racer participating in [WMRRA](https://wmrra.com) (Washington Motorcycle Road Racing Association) and [OMRRA](https://omrra.com) (Oregon Motorcycle Road Racing Association), participating in Formula 600, 600 Supersport, and 600 Superbike clases on his R6 and in Twins classes aboard an Aprilia RS 660.
 
 Chris is also a long-time volunteer of WMRRA and former executive board member (2nd VP). You can find him most race weekends at Friday night tech, making sure machinery and gear are in order for the weekend's events.
 
@@ -47,6 +47,9 @@ When not racing Chris works with [Track Time](https://tracktime.bike/), a premie
     </a>
     <a href="http://stevensonfoto.com">
       <img height=200 src="/img/sponsors/stevensonfoto.jpg" />
+    </a>
+    <a href="http://woodcraft-cfm.com">
+      <img height=200 src="/img/sponsors/woodcraft.jpg" />
     </a>
   </tr>
 </table>

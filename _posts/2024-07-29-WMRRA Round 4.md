@@ -62,5 +62,5 @@ The Bad:
 
 So it was a mixed weekend. I had great fun racing, I made huge strides on a new platform, but I also had a racing incident that now means I have some nights of work ahead of me to get the R6 back on track. But racing is like that sometimes. I'll fix it up and be out there soon enough again.
 
-Thanks to my wife for supporting me, even when I crash. For KYT Americas for providing one of the best helmets available on the market right now. Thanks to all of Short Fuse Racing for your help as I tried to wrangle a two bike program. And thanks to WMRRA and the Volunteers that put the event on. I interfaced more with you this time around than usual and you made a not great situation a bit more pleasant.
+Thanks to my wife for supporting me, even when I crash. For KYT Americas for providing one of the best helmets available on the market right now. Thanks to all of Short Fuse Racing for your help as I tried to wrangle a two bike program. Thanks to Louis Stevenson, StevensonFoto for making me look good out there. And thanks to WMRRA and the Volunteers that put the event on. I interfaced more with you this time around than usual and you made a not great situation a bit more pleasant. 
 
