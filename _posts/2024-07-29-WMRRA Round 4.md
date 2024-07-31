@@ -27,7 +27,7 @@ I've been thinking about adding two bikes to my racing program for a couple of y
 
 I was a bit under the weather this weekend, but it didn't really hit me until Friday afternoon. As it wasn't anything contagious I decided to rough it out and try to get through the weekend. I was excited to try out the new Aprilia, and I've been making good gains this season and wanted to continue.
 
-I didn't have a chance to test the Aprilia RS 660 before Saturday, so I spent the morning practice just getting comfortable on a new platform. I came in and had to make a lot of ergo adjustments. Fortunately the bike is well setup with various bits, mostly Flyhammer and Spider, that meant it was pretty straightforward to get the setup close to what I'd want. I went out in Qualifying and was able to get on the 3rd row, which I thought was alright for my first time on the platform. I should also thank Andrew who was pitted with me and races in Middleweight. The time he spent with me Friday night talking over a few things was super helpful.
+I didn't have a chance to test the Aprilia RS 660 before Saturday. In truth, the number plates and final prep were done late Friday night trackside. I spent the morning practice just getting comfortable on a new platform. I came in and had to make a lot of ergo adjustments. Fortunately the bike is well setup with various bits, mostly Flyhammer and Spider, that meant it was pretty straightforward to get the setup close to what I'd want. I went out in Qualifying and was able to get on the 3rd row, which I thought was alright for my first time on the platform. I should also thank Andrew who was pitted with me and races in Middleweight. The time he spent with me Friday night talking over a few things was super helpful.
 
 ![](/img/race-report-photos/2024/2024-07-27 - RS 660.jpg)
 
@@ -41,7 +41,7 @@ Sunday qualifying went well enough to put me back on the second row. On a positi
 
 ![](/img/race-report-photos/2024/2024-07-27 - R6.jpg)
 
-My (unexpectedly) final race of Sunday was 600 SBK. I didn't get an amazing start and needed to try and claw back places. I spent most of my race behind Garret Visser. I'd seen many of his laps, knew where I was stronger and would spend the second half of the race trying to make my way around him, but he defended well. On the last lap, I figured I could get up the back hill (8/9/10) than Garret, and then be on the inside to Turn 11. I did get a better drive up the hill, and I was even, possibly in front as we crested, but it became clear to me that Garret didn't know I was there. We chatted after and he said he never saw me. I backed out, tried to slow up enough to file in, but I missed it by an inch or two. That's when the fun really began.
+My (unexpectedly) final race of Sunday was 600 SBK. I didn't get an amazing start and needed to try and claw back places. I spent most of my race behind Garret Visser. I'd seen many of his laps, knew where I was stronger and would spend the second half of the race trying to make my way around him, but he defended well. On the last lap, I figured I could get up the back hill (8/9/10) than Garret, and then be on the inside to Turn 11. I did get a better drive up the hill, and I was even, possibly in front as we crested, but it became clear to me that Garret didn't know I was there. I elected to back out and try to funnel in. Unfortunately I missed it by an inch or two. That's when the fun really began.
 
 At about 70 MPH at that point, our wheels touched and I met the ground. I then slid into the gravel where I proceeded to do 3+ barrel rolls before stopping. My bike had made even more distance than I had. The [camera footage](https://youtu.be/SMW9KP3wRWE&t=850) shows my R6 also decided it wanted to do some rolls as well.
 
@@ -54,7 +54,7 @@ The Positives:
 - I have an amazing pit that helped me get the bike cleaned up, my pit loaded up.
 
 The Bad:
-- My helmet is very done
+- My helmet is very done. It did it's job though. I have no head issues despite very much taking some impacts. KYT, you make a fantastic product.
 - so are my gloves
 - My suit is pretty second hand at this point
 
@@ -67,4 +67,3 @@ The Bad:
 So it was a mixed weekend. I had great fun racing, I made huge strides on a new platform, but I also had a racing incident that now means I have some nights of work ahead of me to get the R6 back on track. But racing is like that sometimes. I'll fix it up and be out there soon enough again.
 
 Thanks to my wife for supporting me, even when I crash. For KYT Americas for providing one of the best helmets available on the market right now. Thanks to all of Short Fuse Racing for your help as I tried to wrangle a two bike program. Thanks to Louis Stevenson, StevensonFoto for making me look good out there. And thanks to WMRRA and the Volunteers that put the event on. I interfaced more with you this time around than usual and you made a not great situation a bit more pleasant. 
-
