@@ -29,6 +29,8 @@ I was a bit under the weather this weekend, but it didn't really hit me until Fr
 
 I didn't have a chance to test the Aprilia RS 660 before Saturday, so I spent the morning practice just getting comfortable on a new platform. I came in and had to make a lot of ergo adjustments. Fortunately the bike is well setup with various bits, mostly Flyhammer and Spider, that meant it was pretty straightforward to get the setup close to what I'd want. I went out in Qualifying and was able to get on the 3rd row, which I thought was alright for my first time on the platform. I should also thank Andrew who was pitted with me and races in Middleweight. The time he spent with me Friday night talking over a few things was super helpful.
 
+![](/img/race-report-photos/2024/2024-07-27 - RS 660.jpg)
+
 The R6 was a bit less drama. I took it out for practice just to shake it down. I qualified in the 2nd row and that's more than workable.
 
 The races would go in the pattern: middleweight, no break, 600 race. I was fortunate to have an amazing group with me to help. I would come off the track, a teammate would 'catch' my bike as I hopped off, hopped on to the R6, and went right back out. I don't think we have a video but a few people told me it looked professional. Seppi, the teammate catching the RS 660 as I came in, let me know they didn't really coordinate it and it just worked out. Way to go both Paul and Seppi for all that help.
@@ -36,6 +38,8 @@ The races would go in the pattern: middleweight, no break, 600 race. I was fortu
 By the end of Saturday I rode 32 laps at race pace. I was tuckered out. But my results were solid.
 
 Sunday qualifying went well enough to put me back on the second row. On a positive, Sunday's ordering is a bit more friendly. I'd have a race between MW and 600 events. I started the day with MW SBK and was able to get 4th. This exceeded my goals on the bike. I also got my lap times within 2 seconds of what I figured was the pace I could hope to achieve over the next season, so I need to reset my goal time.
+
+![](/img/race-report-photos/2024/2024-07-27 - R6.jpg)
 
 My (unexpectedly) final race of Sunday was 600 SBK. I didn't get an amazing start and needed to try and claw back places. I spent most of my race behind Garret Visser. I'd seen many of his laps, knew where I was stronger and would spend the second half of the race trying to make my way around him, but he defended well. On the last lap, I figured I could get up the back hill (8/9/10) than Garret, and then be on the inside to Turn 11. I did get a better drive up the hill, and I was even, possibly in front as we crested, but it became clear to me that Garret didn't know I was there. We chatted after and he said he never saw me. I backed out, tried to slow up enough to file in, but I missed it by an inch or two. That's when the fun really began.
 
