@@ -32,10 +32,10 @@ When not racing Chris works with [Track Time](https://tracktime.bike/), a premie
 
 <table>
   <tr>
-    <a href="https://shortfuseracing.com">
-      <img height=200 src="/img/sponsors/short_fuse.png" />
+     <a href="http://stevensonfoto.com">
+      <img height=200 src="/img/sponsors/stevensonfoto.jpg" />
     </a>
-     <a href="https://kytamericas.com">
+    <a href="https://kytamericas.com">
       <img height=100 src="/img/sponsors/kyt.png" />
     </a>
     <a href="http://tracktime.bike">
@@ -44,11 +44,11 @@ When not racing Chris works with [Track Time](https://tracktime.bike/), a premie
     <a href="http://ctracingservices.com">
       <img height=200 src="/img/sponsors/ctr-pirelli-logo-square.jpg" />
     </a>
-    <a href="http://stevensonfoto.com">
-      <img height=200 src="/img/sponsors/stevensonfoto.jpg" />
-    </a>
     <a href="http://woodcraft-cfm.com">
       <img height=200 src="/img/sponsors/woodcraft.jpg" />
+    </a>
+    <a href="https://shortfuseracing.com">
+      <img height=200 src="/img/sponsors/short_fuse.png" />
     </a>
   </tr>
 </table>
