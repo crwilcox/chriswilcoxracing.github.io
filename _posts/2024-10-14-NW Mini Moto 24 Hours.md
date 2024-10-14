@@ -22,7 +22,7 @@ October 12-13, 2024
 
 ![](/img/race-report-photos/2024/24-mini/IMG_4849.jpeg)
 
-![](/img/race-report-photos/2024/24-mini/IMG_4853.png)
+![](/img/race-report-photos/2024/24-mini/IMG_4853.jpeg)
 
 # Additional Photos
 
@@ -50,5 +50,5 @@ Also. It’s a good thing this race ended when it did. We very much were at the 
 
 # Detailed Results
 
-![](/img/race-report-photos/2024/24-mini/IMG_4856.png)
+![](/img/race-report-photos/2024/24-mini/IMG_4856.jpeg)
 
