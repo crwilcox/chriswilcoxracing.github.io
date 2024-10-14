@@ -24,6 +24,10 @@ October 12-13, 2024
 
 ![](/img/race-report-photos/2024/24-mini/IMG_4853.png)
 
+# Additional Photos
+
+https://photos.app.goo.gl/bQKWAa6TMdaKfQ9HA
+
 # Report
 
 I had a great time racing with Team Crazy Turtles in the inaugural 24 hours of minis with NorthWest Mini Moto & Endurance Challenge.
