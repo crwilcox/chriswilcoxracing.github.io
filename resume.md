@@ -15,15 +15,26 @@ permalink: /resume/
 
 
 ## Highlights
+- 2nd and 3rd overall in MW GP and MW SBK for the 2024 WMRRA Season
 - 600 SBK Winner
 - Formula 600, 600 SBK Podiums
+- MW SBK Winner, Podium Finisher.
+
+## Podiums
+
+(as of 2024-December-26)
+- 1st: 4
+- 2nd: 5
+- 3rd: 2
 
 
-<!-- Summary of Results (2022-May-19)
+
+<!-- Google Docs Has a 'fancied' up version of this resume page.>
+<!-- Summary of Results (2024-Dec-26)
 Podiums:
-    1st : 2
-    2nd : 2
-    3rd : 0
+    1st : 4
+    2nd : 5
+    3rd : 2
 
 Races:
 2015: 13
@@ -35,12 +46,13 @@ Races:
 2021: 20
 2022: 19  
 2023: 12 (143)
-2024: 14 
+2024: 17 (160)
+
 -->
 
-Chris Wilcox is a regional road racer that started his career in 2015. He primarily races in the [WMRRA](https://wmrra.com) (Washington Motorcycle Road Racing Association) and [OMRRA](https://omrra.com) (Oregon Motorcycle Road Racing Association) racing series. Aboard his 2017 Yamaha R6, he can be found on the grids of the top-level 600 cc classes; Formula 600, 600 Supersport, and 600 Superbike classes. Chris has also recently started competing in Twins classes aboard a 2022 Aprilia RS 660.
+Chris Wilcox is a regional road racer participating in [WMRRA](https://wmrra.com)  (Washington Motorcycle Road Racing Association), [OMRRA](https://omrra.com) (Oregon Motorcycle Road Racing Association), [CVMA](https://cvmaracing.com/) (Chuckwalla Valley Motorcycle Association) participating in Middleweight Twins classes on an Aprilia RS 660.
 
-Chris is involved in the Pacific Northwest motorcycle community. He has served as an executive board member of WMRRA (2nd VP), technical inspector for WMRRA, and an active community member. You can find him most WMRRA race weekends at Friday night tech, making sure machinery and gear are in order for the weekend's events.
+Chris is also a long-time volunteer of WMRRA, current board of directors member, and former executive board member (2nd VP). You can find him most race weekends at Friday night tech, making sure machinery and gear are in order for the weekend’s events.
 
 Chris diligently posts about his race weekends and records his races. You can find many of Chris' race weekends described in his [race reports](/race-reports).
 
