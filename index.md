@@ -5,8 +5,7 @@
 # layout: home
 layout: page
 ---
-
-![](/img/race-report-photos/2024/2024-R3-Rear.jpg)
+![](/img/2025-RS660-T15-Hero.JPG)
 
 Chris Wilcox is a regional road racer participating in [WMRRA](https://wmrra.com) (Washington Motorcycle Road Racing Association) and [OMRRA](https://omrra.com) (Oregon Motorcycle Road Racing Association), participating in Twins classes aboard an Aprilia RS 660. Chris has previously competed on Yamaha R6s in Formula 600, 600 Supersport, and 600 Superbike classes.
 

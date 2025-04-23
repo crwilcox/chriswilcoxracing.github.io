@@ -42,7 +42,7 @@ My first race of the weekend, MW SBK, went alright, though I finished under my t
     <img src="/img/race-report-photos/2025/2025-WMRRA-R1-STF02715.jpg">
     <figcaption>Stalking Drat.</figcaption>
 </figure>
-
+bund
 I woke up Sunday not too much more sore than an average race weekend. This left me hopeful for what I could do on the track. I still took it easy, only turning a lap in morning practice, focusing on putting in the laptimes when it mattered. MW SBK came up first in the day. I got a great start, slotting into third place and staying on 2nd place. Unfortunately [Oliver Jervis lost it heading out of T7 towards T8](https://youtu.be/nQmDXgPWA6Q&t=60). As I headed down the hill, I saw a bike to my left flipping rather high into the air. When I got to turn 9, we saw an incident from the wave in front, Formula 40, as someone lost the rear and their bike had made it all the way to the hard barrier on the outside of the track. This event was red flagged. We'd restart the race later in the day. I didn't get as good as a start as the first event, but it was still solid. I'd take 4th the second time around.
 
 450 SBK was the final event of the weekend. I got a decent start in this event and would spend the majority of the race in 3rd. A bit after halfway, the leader went off track promoting me to 2nd. I kept a gap to the rider now in 3rd to get on the box once for the weekend.
