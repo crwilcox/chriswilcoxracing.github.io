@@ -62,3 +62,37 @@
   class: Formula 2 (Sunday)
   result: 5th
   video: https://www.youtube.com/watch?v=VValNdYCOoI
+
+- date: 2025/04/19
+  event: WMRRA Round 1
+  location: The Ridge Motorsports Park, Shelton, WA
+  report: /reports/2025/04/22/WMRRA-Round-1.html
+  class: MW SBK (Saturday)
+  result: 11th
+  video: https://youtu.be/GdNFGxmEQp0
+
+- date: 2025/04/19
+  event: WMRRA Round 1
+  location: The Ridge Motorsports Park, Shelton, WA
+  report: /reports/2025/04/22/WMRRA-Round-1.html
+  class: MW GP (Saturday)
+  result: 4th
+  video: https://youtu.be/GuMOk7fwPBM
+
+
+- date: 2025/04/20
+  event: WMRRA Round 1
+  location: The Ridge Motorsports Park, Shelton, WA
+  report: /reports/2025/04/22/WMRRA-Round-1.html
+  class: MW SBK (Sunday)
+  result: 4th
+  video: https://youtu.be/9W7mCBFp4sM
+
+
+- date: 2025/04/20
+  event: WMRRA Round 1
+  location: The Ridge Motorsports Park, Shelton, WA
+  report: /reports/2025/04/22/WMRRA-Round-1.html
+  class: 450 SBK (Saturday)
+  result: 2nd
+  video: https://youtu.be/M6SFixK9O-8
