@@ -47,8 +47,7 @@ I woke up Sunday not too much more sore than an average race weekend. This left 
 
 450 SBK was the final event of the weekend. I got a decent start in this event and would spend the majority of the race in 3rd. A bit after halfway, the leader went off track promoting me to 2nd. I kept a gap to the rider now in 3rd to get on the box once for the weekend.
 
-![](/img/race-report-photos/2025/2025-WMRRA-R1-Podium.JPG)
-
+![](/img/race-report-photos/2025/2025-WMRRA-R1-Podium.jpg)
 
 I have to shoutout a few people for making this happen. Colin Carrihill, my pitmate at Chuck and this weekend; you had my back. You drove the van home alone when I injured myself so I could book a flight and get back home ASAP. You also carpooled to this round, and organized us an RV rental so we could have a bit more comfort. I also need to think Paul McComsey, Brandon Scott, and Salman Khan. Y'all helped me get a fork last minute so I could get out there this weekend. I also have to thank my wife for tolerating the many evenings spent in the garage getting my motorcycle to a shape that I could race it. She picked up slack around the house while I had other focus.
 
