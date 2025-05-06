@@ -79,7 +79,6 @@
   result: 4th
   video: https://youtu.be/GuMOk7fwPBM
 
-
 - date: 2025/04/20
   event: WMRRA Round 1
   location: The Ridge Motorsports Park, Shelton, WA
@@ -88,7 +87,6 @@
   result: 4th
   video: https://youtu.be/9W7mCBFp4sM
 
-
 - date: 2025/04/20
   event: WMRRA Round 1
   location: The Ridge Motorsports Park, Shelton, WA
@@ -96,3 +94,51 @@
   class: 450 SBK (Saturday)
   result: 2nd
   video: https://youtu.be/M6SFixK9O-8
+
+- date: 2025/05/03
+  event: OMRRA Round 1 (WMRRA Round 2)
+  location: Portland International Raceway
+  report: /reports/2025/05/05/OMRRA-Round-1.html
+  class: 450 SBK (Saturday)
+  result: 4th
+  video: https://youtu.be/YyFSElMeKEE
+
+- date: 2025/05/03
+  event: OMRRA Round 1 (WMRRA Round 2)
+  location: Portland International Raceway
+  report: /reports/2025/05/05/OMRRA-Round-1.html
+  class: MW SBK (Saturday)
+  result: 7th
+  video: https://youtu.be/I00ZLijBDok 
+
+- date: 2025/05/03
+  event: OMRRA Round 1 (WMRRA Round 2)
+  location: Portland International Raceway
+  report: /reports/2025/05/05/OMRRA-Round-1.html
+  class: MW GP (Saturday)
+  result: 4th
+  video: https://youtu.be/d-Vga9HIyKc 
+
+- date: 2025/05/03
+  event: OMRRA Round 1 (WMRRA Round 2)
+  location: Portland International Raceway
+  report: /reports/2025/05/05/OMRRA-Round-1.html
+  class: MW GP (Sunday)
+  result: 4th
+  video: https://youtu.be/K1_plhysQgo 
+
+- date: 2025/05/03
+  event: OMRRA Round 1 (WMRRA Round 2)
+  location: Portland International Raceway
+  report: /reports/2025/05/05/OMRRA-Round-1.html
+  class: MW SBK (Sunday)
+  result: 5th
+  video: https://youtu.be/_QSPNqu3b8M 
+
+- date: 2025/05/03
+  event: OMRRA Round 1 (WMRRA Round 2)
+  location: Portland International Raceway
+  report: /reports/2025/05/05/OMRRA-Round-1.html
+  class: 450 SBK (Sunday)
+  result: 5th
+  video: https://youtu.be/clF8_DxzmxA 
