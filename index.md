@@ -46,9 +46,12 @@ When not racing Chris works with [Track Time](https://tracktime.bike/), a premie
     <a href="http://woodcraft-cfm.com">
       <img height=200 src="/img/sponsors/woodcraft.jpg" />
     </a>
-    <a href="https://shortfuseracing.com">
-      <img height=200 src="/img/sponsors/short_fuse.png" />
+    <a href="https://shortcircuitracing.com">
+      <img height=200 src="/img/sponsors/no-disassemble.png" />
     </a>
+    <!-- <a href="https://shortfuseracing.com">
+      <img height=200 src="/img/sponsors/short_fuse.png" />
+    </a> -->
   </tr>
 </table>
 
