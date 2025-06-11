@@ -32,6 +32,8 @@ I spent the morning trying to sort out the chicane and realized that, far more t
 
 Louis Stevenson, pitmate and the person who takes most of the photos you see here, had found I can unplug both front and rear sesnsors. And while that would cause me to have no traction control, the bike would work at least. When I went to remove the front sensor I found the problem. Somehow the cable had rubbed against the front tire, abraded, and was barely connected. This was great news though. We then field spliced the two, far more complete ends of the cable, tested with a multimeter (thanks Delaney from The Fix for loaning us one, and for Zlock Racing for loaning one for my earlier testing) to verify connectivity, and crossed my fingers. It worked great!
 
+The bad news is all of that meant I had an unsuccessful qualifying and would start all races for the weekend further down the grid order as I didn't set a true pace lap.
+
 My races all went well enough on the day. I was able to stay in or near the top 10 for the races. I also improved my laptimes each and ever race on Saturday.
 
 Saturday was warm, in the 80s, but Sunday would make that look pleasant...
