@@ -17,10 +17,12 @@ July 19-20, 2025
 {% assign event_name = "WMRRA Round 5" %}
 {% include display_results.html %}
 
-![](/img/race-report-photos/2025/WMRRA-Round-5/pit-stare.jpeg)
-<center><em>
-Getting ready to roll.
-</em></center>
+
+
+<figure>
+    <img src="/img/race-report-photos/2025/WMRRA-Round-5/pit-stare.jpeg">
+    <figcaption>Getting ready to roll.</figcaption>
+</figure>
 
 # Summary
 
@@ -34,11 +36,10 @@ Last race round at The Ridge Motorsports Park of the season, packed grids, and f
 
 First practice on Saturday had an odd vibe. There was a lot of traffic and it just felt like something was in the air. It made it hard to settle in and do much with my laps. I came in, jumped off the bike and my boots hit the ground with a *click*. Somehow both soles on my boots came off... A few minutes after the session another racer let me know just where they were on track. Maybe the odd feeling was not having any purchase on the bike? Anyway, I took off my white boots and on went the black pair. 
 
-![](/img/race-report-photos/2025/WMRRA-Round-5/STF00216.jpg)
-
-<center><em>
-One of the few photos in my white boots.
-</em></center>
+<figure>
+    <img src="/img/race-report-photos/2025/WMRRA-Round-5/STF00216.jpg">
+    <figcaption>One of the few photos in my white boots.</figcaption>
+</figure>
 
 When I went out in qualifying and there was again traffic, but I got my head down. My qualifying group has a few different classes and I was behind a slower class motorcycle, a MotoGuzzi, that I noticed dragging hard parts and upsetting their suspension in turn 9. I quickly decided I didn't want to post up behind any longer and setup for a pass into turn 11. I'd gotten past them on a wide line and then felt a bump on my side. They had stood the bike up, ran into me, and then crashed. Talking in the pits it sounds like they have a mechanical issue with shifting. Luckily the only problem for me is a mark down the side of my suit.
 
@@ -60,11 +61,10 @@ Race 10 was solid. I had very consistent laps throughout the race. Hannah Johnso
 
 First race on Sunday was race 14, MW SBK. I got an okay start which resulted in me slotting in behind Kevin O'Neill. I was having a better weekend pacewise than Kevin, so I figured my race was going to be inverting our positions. About halfway through the race, we caught a 1000 from the wave in front of MWSBK. Passing bikes with disparate power configurations can be tricky and I could tell Kevin was frustrated trying to get around them.
 
-![](/img/race-report-photos/2025/WMRRA-Round-5/STF06678.jpg)
-
-<center><em>
-Kevin and I in a bit of a train.
-</em></center>
+<figure>
+    <img src="/img/race-report-photos/2025/WMRRA-Round-5/STF06678.jpg">
+    <figcaption>Kevin and I in a bit of a train.</figcaption>
+</figure>
 
 I had a few opportunities to pass while we were stuck up a bit, but I decided we'd be able to pass the slower bike, then continue the battle. Kevin went for the pass into turn 6, I followed, and we were unleashed. I then got decent drive up the back hill and braked later into turn 11 than Kevin to make the pass. Once I did this I was able to drop about a second off of my laps, going to a 1:56.30.
 
