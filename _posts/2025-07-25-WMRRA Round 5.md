@@ -18,3 +18,8 @@ July 19-20, 2025
 {% include display_results.html %}
 
 # Summary
+
+![](/img/race-report-photos/2025/WMRRA-Round-5/Bike-Medal.jpeg)
+![](/img/race-report-photos/2025/WMRRA-Round-5/STF06644.jpeg)
+![](/img/race-report-photos/2025/WMRRA-Round-5/STF00216.jpg)
+
