@@ -20,6 +20,14 @@ September 20-21, 2025
 
 # Summary
 
+Solid round to end the season. I podiumed in MW GP and locked up the championship. Shoutout to Andrew Burgess for loaning me his rains so I could grid up and lock up the #1 trophy.
+
+Also, recorded the race for the first time using a helmet camera.
+
+[MW GP Race with Data](https://www.youtube.com/watch?v=bnDWEwN6ZSk)
+
+[MW GP Helmet Cam](https://youtu.be/RqrKGqBjvb0)
+
 <figure>
     <img src="/img/race-report-photos/2025/WMRRA-Round-8/STF00175.jpeg">
     <figcaption>Being hounded by Hannnah with Kevin not far behind.</figcaption>
