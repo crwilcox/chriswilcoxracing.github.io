@@ -289,3 +289,36 @@
   class: 450 SBK (Sunday)
   result: 3rd
   video: https://youtu.be/1ctmpb7gLL8
+
+
+- date: 2025/09/20
+  event: WMRRA Round 8
+  location: Pacific Raceways, Kent, WA
+  report: /reports/2025/09/22/WMRRA-Round-8.html
+  class: MW SBK (Sat)
+  result: 6th
+  video: https://youtu.be/24TbBAjpbbY
+
+- date: 2025/09/21
+  event: WMRRA Round 8
+  location: Pacific Raceways, Kent, WA
+  report: /reports/2025/09/22/WMRRA-Round-8.html
+  class: MW GP
+  result: 2nd
+  video: https://youtu.be/bnDWEwN6ZSk
+
+- date: 2025/09/21
+  event: WMRRA Round 8
+  location: Pacific Raceways, Kent, WA
+  report: /reports/2025/09/22/WMRRA-Round-8.html
+  class: MW SBK (Sun)
+  result: 5th
+  video: https://youtu.be/xSwjcPbFWLY
+
+- date: 2025/09/21
+  event: WMRRA Round 8
+  location: Pacific Raceways, Kent, WA
+  report: /reports/2025/09/22/WMRRA-Round-8.html
+  class: 450 SBK
+  result: 5th
+  video: https://youtu.be/677PVVXJkFA
