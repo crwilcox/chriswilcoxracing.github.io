@@ -33,7 +33,7 @@ While the bike seemed fine in practice, the run times were short. In part becaus
 
 <figure>
     <img src="/img/race-report-photos/2026/WMRRA-Round-1/STF2850-2.jpg">
-    <figcaption>The final turn.<figcaption>
+    <figcaption>The final turn.</figcaption>
 </figure>
 
 My cooling system would spend both races I gridded up for getting increasingly warm until around Lap 5 when it would begin to eject coolant to the overflow, and eventually the belly pan.
@@ -42,7 +42,7 @@ I wish I had finished a race, but sometimes that's how it goes. The bike is apar
 
 <figure>
     <img src="/img/race-report-photos/2026/WMRRA-Round-1/STF6258.jpg">
-    <figcaption>Double vision.<figcaption>
+    <figcaption>Double vision.</figcaption>
 </figure>
 
 Thanks to the folks that help make this happen. Sorry I wasn't able to record points. Your support is even more appreciated on weekends like this.

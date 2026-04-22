@@ -35,7 +35,7 @@ Also, recorded the race for the first time using a helmet camera.
 
 <figure>
     <img src="/img/race-report-photos/2025/WMRRA-Round-8/STF07721.jpeg">
-    <figcaption>Familiar Story...<figcaption>
+    <figcaption>Familiar Story...</figcaption>
 </figure>
 
 <figure>
