@@ -24,6 +24,8 @@ I decided to do mostly just a photo journal of the weekend. I had a wonderful ti
 
 Super exciting times, with great company, at an amazing track. I don't need to say more than that.
 
+Thanks StevensonFoto for the great shots, Cromulent Brewing for the dinner beverages, Track Time for a place to hone my craft, and my other sponsors, Paulie's Frame Shop, AnMaPie Web Consulting, Pirelli CT Racing, and KYT.
+
 <figure>
     <img src="/img/race-report-photos/2026/WMRRA-Round-5/bike-in-pits.jpg">
     <figcaption>All setup and ready to go!</figcaption>
